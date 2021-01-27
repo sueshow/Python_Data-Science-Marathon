@@ -3,9 +3,9 @@
 ## NumPy 程式開發實作
 <table border="1" style="word-break:break-all; word-wrap:break-all;">
     <tr>
-        <th width="50">主題</a>
-        <th width="30">範例</a>
-        <th width="30">作業</a>
+        <th width="40">主題</a>
+        <th width="20">範例</a>
+        <th width="20">作業</a>
     </tr>
     <tr>
         <td>NumPy 基本操作</td>
@@ -53,9 +53,9 @@
 ## Pandas 程式開發實作
 <table border="1" style="word-break:break-all; word-wrap:break-all;">
     <tr>
-        <th width="50">主題</a>
-        <th width="30">範例</a>
-        <th width="30">作業</a>
+        <th width="40">主題</a>
+        <th width="20">範例</a>
+        <th width="20">作業</a>
     </tr>
     <tr>
         <td>使用 Pandas 讀寫各種常用的檔案格式</td>
