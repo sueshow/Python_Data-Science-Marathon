@@ -58,42 +58,42 @@
         <th width="30">作業</a>
     </tr>
     <tr>
-        <td class="AutoNewline">使用 Pandas 讀寫各種常用的檔案格式</td>
+        <td>使用 Pandas 讀寫各種常用的檔案格式</td>
         <td>1行2列</td>
         <td>1行2列</td>
     </tr>
     <tr>
-        <td class="AutoNewline">Pandas 資料索引操作 <br> (資料過濾、選擇、合併)</td>
+        <td>Pandas 資料索引操作 <br> (資料過濾、選擇、合併)</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
     <tr>
-        <td class="AutoNewline">2行2列</td>
         <td>2行2列</td>
-        <td>2行2列</td>
-    </tr>
-    <tr>
-        <td class="AutoNewline">2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
     <tr>
-        <td class="AutoNewline">2行2列</td>
         <td>2行2列</td>
-        <td>2行2列</td>
-    </tr>
-    <tr>
-        <td class="AutoNewline">2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
     <tr>
-        <td class="AutoNewline">2行2列</td>
+        <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
     <tr>
-        <td class="AutoNewline">2行2列</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+    </tr>
+    <tr>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+    </tr>
+    <tr>
+        <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
