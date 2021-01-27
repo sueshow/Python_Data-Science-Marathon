@@ -35,7 +35,7 @@
         <td>2行2列</td>
     </tr>
     <tr>
-        <td class="AutoNewline">NumPy 結構化陣列 (Structured Arrays)</td>
+        <td class="AutoNewline">NumPy 結構化陣列 <br> (Structured Arrays)</td>
         <td>2行2列</td>
     </tr>
 </table>
@@ -62,7 +62,7 @@
         <td>1行2列</td>
     </tr>
     <tr>
-        <td class="AutoNewline">Pandas 資料索引操作 (資料過濾、選擇、合併)</td>
+        <td class="AutoNewline">Pandas 資料索引操作 <br> (資料過濾、選擇、合併)</td>
         <td>2行2列</td>
     </tr>
     <tr>
