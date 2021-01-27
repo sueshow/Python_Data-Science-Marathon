@@ -100,6 +100,6 @@
 </table>
 
 ## 參考資料
-* Markdown：https://blog.fntsr.tw/articles/726/
-* https://zj-sphinx-github-readthedocs.readthedocs.io/en/latest/markdown/Markdown%E4%BD%BF%E7%94%A8-4-%E8%A1%A8%E6%A0%BC/
+* [Markdown 表格語法原則](https://blog.fntsr.tw/articles/726/)
+* [Markdown使用](https://zj-sphinx-github-readthedocs.readthedocs.io/en/latest/markdown/Markdown%E4%BD%BF%E7%94%A8-4-%E8%A1%A8%E6%A0%BC/)
 * https://www.jianshu.com/p/9ab92efc286a
