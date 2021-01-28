@@ -4,16 +4,19 @@
 <table border="1" style="word-break:break-all; word-wrap:break-all;">
     <tr>
         <th width="40">主題</a>
-        <th width="20">範例</a>
-        <th width="20">作業</a>
+        <th width="15">範例</a>
+        <th width="15">作業</a>
+        <th width="15">解答</a>
     </tr>
     <tr>
         <td>NumPy 基本操作</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_01_Sample.ipynb">Day_01_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework.ipynb">Day_01_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution.ipynb">Day_01_Solution</a> </td>
     </tr>
     <tr>
         <td>NumPy 陣列進階操作</td>
+        <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
@@ -21,9 +24,11 @@
         <td>NumPy 陣列運算及數學函式</td>
         <td>2行2列</td>
         <td>2行2列</td>
+        <td>2行2列</td>
     </tr>
     <tr>
         <td>NumPy 陣列邏輯函式</td>
+        <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
@@ -31,9 +36,11 @@
         <td>NumPy 統計函式</td>
         <td>2行2列</td>
         <td>2行2列</td>
+        <td>2行2列</td>
     </tr>
     <tr>
         <td>使用 NumPy 存取各種檔案內容</td>
+        <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
@@ -41,9 +48,11 @@
         <td>NumPy 的矩陣函式與線性代數應用</td>
         <td>2行2列</td>
         <td>2行2列</td>
+        <td>2行2列</td>
     </tr>
     <tr>
         <td>NumPy 結構化陣列 <br> (Structured Arrays)</td>
+        <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
@@ -54,11 +63,13 @@
 <table border="1" style="word-break:break-all; word-wrap:break-all;">
     <tr>
         <th width="40">主題</a>
-        <th width="20">範例</a>
-        <th width="20">作業</a>
+        <th width="15">範例</a>
+        <th width="15">作業</a>
+        <th width="15">解答</a>
     </tr>
     <tr>
         <td>使用 Pandas 讀寫各種常用的檔案格式</td>
+        <td>1行2列</td>
         <td>1行2列</td>
         <td>1行2列</td>
     </tr>
@@ -66,36 +77,43 @@
         <td>Pandas 資料索引操作 <br> (資料過濾、選擇、合併)</td>
         <td>2行2列</td>
         <td>2行2列</td>
+        <td>1行2列</td>
     </tr>
     <tr>
         <td>2行2列</td>
         <td>2行2列</td>
-        <td>2行2列</td>
-    </tr>
-    <tr>
-        <td>2行2列</td>
-        <td>2行2列</td>
-        <td>2行2列</td>
-    </tr>
-    <tr>
-        <td>2行2列</td>
-        <td>2行2列</td>
+        <td>1行2列</td>
         <td>2行2列</td>
     </tr>
     <tr>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
+        <td>1行2列</td>
     </tr>
     <tr>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
+        <td>1行2列</td>
     </tr>
     <tr>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
+        <td>1行2列</td>
+    </tr>
+    <tr>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>1行2列</td>
+    </tr>
+    <tr>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>1行2列</td>
     </tr>
 </table>
 
