@@ -9,8 +9,8 @@
     </tr>
     <tr>
         <td>NumPy 基本操作</td>
-        <td>1行2列</td>
-        <td>1行2列</td>
+        <td>[Day_01_Sample](https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_01_Sample.ipynb)</td>
+        <td>[Day_01_H.W.](https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework.ipynb)</td>
     </tr>
     <tr>
         <td>NumPy 陣列進階操作</td>
