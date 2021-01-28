@@ -80,42 +80,114 @@
         <td>1行2列</td>
     </tr>
     <tr>
-        <td>2行2列</td>
+        <td>Pandas 類別資料與缺失值處理</td>
         <td>2行2列</td>
         <td>1行2列</td>
         <td>2行2列</td>
     </tr>
     <tr>
-        <td>2行2列</td>
-        <td>2行2列</td>
-        <td>2行2列</td>
-        <td>1行2列</td>
-    </tr>
-    <tr>
-        <td>2行2列</td>
+        <td>Pandas 常見圖表程式設計</td>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>1行2列</td>
     </tr>
     <tr>
-        <td>2行2列</td>
-        <td>2行2列</td>
-        <td>2行2列</td>
-        <td>1行2列</td>
-    </tr>
-    <tr>
-        <td>2行2列</td>
+        <td>Pandas 統計函式使用教學</td>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>1行2列</td>
     </tr>
     <tr>
-        <td>2行2列</td>
+        <td>Pandas 撰寫樞紐分析表</td>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>1行2列</td>
     </tr>
+    <tr>
+        <td>Pandas Split-Apply-Combine Strategy</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>1行2列</td>
+    </tr>
+    <tr>
+        <td>Pandas 時間序列</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>1行2列</td>
+    </tr>
+    <tr>
+        <td>Pandas 效能調校</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>1行2列</td>
+    </tr>    
 </table>
+<br>
+
+## Data Visualization 資料視覺化( Matplotlib/Seaborn )
+<table border="1" style="word-break:break-all; word-wrap:break-all;">
+    <tr>
+        <th width="40">主題</a>
+        <th width="15">範例</a>
+        <th width="15">作業</a>
+        <th width="15">解答</a>
+    </tr>
+    <tr>
+        <td>Python 資料視覺化工具與常見統計圖表介紹</td>
+        <td>1行2列</td>
+        <td>1行2列</td>
+        <td>1行2列</td>
+    </tr>
+    <tr>
+        <td>使用 Matplotlib 繪製各種常用圖表</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>1行2列</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>2行2列</td>
+        <td>1行2列</td>
+        <td>2行2列</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>1行2列</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>1行2列</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>1行2列</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>1行2列</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>1行2列</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>1行2列</td>
+    </tr>    
+</table>
+<br>
 
 ## 參考資料
 * [Markdown 表格語法原則](https://blog.fntsr.tw/articles/726/)
