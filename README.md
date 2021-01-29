@@ -3,28 +3,28 @@
 ## NumPy 程式開發實作
 <table border="1" style="width:50%">
     <tr>
-        <th>主題</a>
-        <th>範例</a>
-        <th>作業</a>
-        <th>解答</a>
+        <th style="width:20%">主題</a>
+        <th style="width:10%">範例</a>
+        <th style="width:10%">作業</a>
+        <th style="width:10%">解答</a>
     </tr>
     <tr>
-        <td style="width:20%">NumPy 基本操作</td>
-        <td style="width:10%"> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_01_Sample.ipynb">Day_01_Sample</a> </td>
-        <td style="width:10%"> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework.ipynb">Day_01_H.W.</a> </td>
-        <td style="width:10%"> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution.ipynb">Day_01_Solution</a> </td>
+        <td>NumPy 基本操作</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_01_Sample.ipynb">Day_01_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework.ipynb">Day_01_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution.ipynb">Day_01_Solution</a> </td>
     </tr>
     <tr>
-        <td style="width:20%">NumPy 陣列進階操作</td>
-        <td style="width:10%">2行2列</td>
-        <td style="width:10%">2行2列</td>
-        <td style="width:10%">2行2列</td>
+        <td>NumPy 陣列進階操作</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
     </tr>
     <tr>
-        <td style="width:20%">NumPy 陣列運算及數學函式</td>
-        <td style="width:10%">2行2列</td>
-        <td style="width:10%">2行2列</td>
-        <td style="width:10%">2行2列</td>
+        <td>NumPy 陣列運算及數學函式</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
+        <td>2行2列</td>
     </tr>
     <tr>
         <td>NumPy 陣列邏輯函式</td>
