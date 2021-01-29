@@ -9,49 +9,49 @@
         <th>解答</a>
     </tr>
     <tr>
-        <td style=”word-wrap:break-word;”>NumPy 基本操作</td>
+        <td>NumPy 基本操作</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_01_Sample.ipynb">Day_01_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework.ipynb">Day_01_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution.ipynb">Day_01_Solution</a> </td>
     </tr>
     <tr>
-        <td style=”word-wrap:break-word;”>NumPy 陣列進階操作</td>
+        <td>NumPy 陣列進階操作</td>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
     <tr>
-        <td style=”word-wrap:break-word;”>NumPy 陣列運算及數學函式</td>
+        <td>NumPy 陣列運算及數學函式</td>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
     <tr>
-        <td style=”word-wrap:break-word;”>NumPy 陣列邏輯函式</td>
+        <td>NumPy 陣列邏輯函式</td>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
     <tr>
-        <td style=”word-wrap:break-word;”>NumPy 統計函式</td>
+        <td>NumPy 統計函式</td>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
     <tr>
-        <td style=”word-wrap:break-word;”>使用 NumPy 存取各種檔案內容</td>
+        <td>使用 NumPy 存取各種檔案內容</td>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
     <tr>
-        <td style=”word-wrap:break-word;”>NumPy 的矩陣函式與線性代數應用</td>
+        <td>NumPy 的矩陣函式與線性代數應用</td>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
     </tr>
     <tr>
-        <td style=”word-wrap:break-word;”>NumPy 結構化陣列 (Structured Arrays)</td>
+        <td>NumPy 結構化陣列 (Structured Arrays)</td>
         <td>2行2列</td>
         <td>2行2列</td>
         <td>2行2列</td>
