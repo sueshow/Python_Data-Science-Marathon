@@ -1,12 +1,12 @@
 # Python 資料科學程式馬拉松
 
 ## NumPy 程式開發實作
-<table border="1">
+<table border="1" width="60%">
     <tr>
-        <th width="40">主題</a>
-        <th width="10">範例</a>
-        <th width="10">作業</a>
-        <th width="10">解答</a>
+        <th width="30%">主題</a>
+        <th width="10%">範例</a>
+        <th width="10%">作業</a>
+        <th width="10%">解答</a>
     </tr>
     <tr>
         <td>NumPy 基本操作</td>
@@ -60,12 +60,12 @@
 <br>
  
 ## Pandas 程式開發實作
-<table border="1">
+<table border="1" width="60%">
     <tr>
-        <th width="40">主題</a>
-        <th width="10">範例</a>
-        <th width="10">作業</a>
-        <th width="10">解答</a>
+        <th width="30%">主題</a>
+        <th width="10%">範例</a>
+        <th width="10%">作業</a>
+        <th width="10%">解答</a>
     </tr>
     <tr>
         <td>使用 Pandas 讀寫各種常用的檔案格式</td>
@@ -125,12 +125,12 @@
 <br>
 
 ## Data Visualization 資料視覺化( Matplotlib/Seaborn )
-<table border="1" style="word-break:break-all; word-wrap:break-all;">
+<table border="1" width="60%">
     <tr>
-        <th width="40">主題</a>
-        <th width="10">範例</a>
-        <th width="10">作業</a>
-        <th width="10">解答</a>
+        <th width="30%">主題</a>
+        <th width="10%">範例</a>
+        <th width="10%">作業</a>
+        <th width="10%">解答</a>
     </tr>
     <tr>
         <td>Python 資料視覺化工具與常見統計圖表介紹</td>
