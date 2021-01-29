@@ -4,7 +4,7 @@
 <table border="1" width="60%">
     <tr>
         <th width="30%">主題</a>
-        <th width="10%">範例</a>
+        <th width="10%">範例(含筆記)</a>
         <th width="10%">作業</a>
         <th width="10%">解答</a>
     </tr>
