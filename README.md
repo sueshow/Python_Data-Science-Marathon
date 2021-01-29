@@ -1,12 +1,12 @@
 # Python 資料科學程式馬拉松
 
 ## NumPy 程式開發實作
-<table border="1" width="60%">
+<table border="1" width="40%">
     <tr>
-        <th width="30%">主題</a>
-        <th width="10%">範例</a>
-        <th width="10%">作業</a>
-        <th width="10%">解答</a>
+        <th width="25%">主題</a>
+        <th width="5%">範例</a>
+        <th width="5%">作業</a>
+        <th width="5%">解答</a>
     </tr>
     <tr>
         <td>NumPy 基本操作</td>
