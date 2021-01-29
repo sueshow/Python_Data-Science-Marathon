@@ -1,7 +1,7 @@
 # Python 資料科學程式馬拉松
 
 ## NumPy 程式開發實作
-<table border="1" width="75">
+<table border="1">
     <tr>
         <th>主題</a>
         <th>範例</a>
@@ -60,7 +60,7 @@
 <br>
  
 ## Pandas 程式開發實作
-<table border="1" width="75">
+<table border="1" width="85">
     <tr>
         <th width="40">主題</a>
         <th width="15">範例</a>
