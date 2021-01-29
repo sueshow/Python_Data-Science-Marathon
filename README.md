@@ -1,7 +1,7 @@
 # Python 資料科學程式馬拉松
 
 ## NumPy 程式開發實作
-<table border="1" style=”table-layout:fixed;”>
+<table border="1" style="table-layout:fixed;">
     <tr>
         <th>主題</a>
         <th>範例</a>
