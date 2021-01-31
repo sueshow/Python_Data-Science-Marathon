@@ -18,7 +18,7 @@
         <td>NumPy 陣列進階操作</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_02_Sample.ipynb">Day_02_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_02_Homework.ipynb">Day_02_H.W.</a> </td>
-        <td>Day_02_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution.ipynb">Day_02_Solution</a> </td>
     </tr>
     <tr>
         <td>NumPy 陣列運算及數學函式</td>
