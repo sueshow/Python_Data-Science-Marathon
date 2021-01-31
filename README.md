@@ -17,7 +17,7 @@
     <tr>
         <td>NumPy 陣列進階操作</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_02_Sample.ipynb">Day_02_Sample</a> </td>
-        <td>Day_02_H.W.</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_02_Homework.ipynb">Day_02_H.W.</a> </td>
         <td>Day_02_Solution</td>
     </tr>
     <tr>
