@@ -145,47 +145,82 @@
         <td>Day_19_Solution</td>
     </tr>
     <tr>
-        <td></td>
+        <td>使用 Seaborn 進行資料視覺化</td>
         <td>Day_20_Sample</td>
         <td>Day_20_H.W.</td>
         <td>Day_20_Solution</td>
     </tr>
     <tr>
-        <td></td>
+        <td>運用實際資料集進行資料視覺化練習</td>
         <td>Day_21_Sample</td>
         <td>Day_21_H.W.</td>
         <td>Day_21_Solution</td>
     </tr>
     <tr>
-        <td></td>
+        <td>結合 Pandas 與 Matploglib 進行進階資料視覺化練習</td>
         <td>Day_22_Sample</td>
         <td>Day_22_H.W.</td>
         <td>Day_22_Solution</td>
     </tr>
     <tr>
-        <td></td>
+        <td>Bokeh 輕鬆以網頁呈現視覺化圖表</td>
         <td>Day_23_Sample</td>
         <td>Day_23_H.W.</td>
         <td>Day_23_Solution</td>
     </tr>
     <tr>
-        <td></td>
+        <td>Basemap 進行地理資訊繪圖</td>
         <td>Day_24_Sample</td>
         <td>Day_24_H.W.</td>
         <td>Day_24_Solution</td>
     </tr>
     <tr>
-        <td></td>
+        <td>使用 Pandas 與 Basemap 將數據整合於地理資訊圖表</td>
         <td>Day_25_Sample</td>
         <td>Day_25_H.W.</td>
         <td>Day_25_Solution</td>
     </tr>
+</table>
+<br>
+
+## 統計的基礎知識
+<table border="1" width="60%">
     <tr>
-        <td></td>
+        <th width="30%">主題</a>
+        <th width="10%">範例</a>
+        <th width="10%">作業</a>
+        <th width="10%">解答</a>
+    </tr>
+    <tr>
+        <td>用統計描述資料的樣態</td>
         <td>Day_26_Sample</td>
         <td>Day_26_H.W.</td>
         <td>Day_26_Solution</td>
-    </tr>    
+    </tr>
+    <tr>
+        <td>用機率分布描述亂中有序的世界 - 離散型分配(1)</td>
+        <td>Day_27_Sample</td>
+        <td>Day_27_H.W.</td>
+        <td>Day_27_Solution</td>
+    </tr>
+    <tr>
+        <td>用機率分布描述亂中有序的世界 - 離散型分配(2)</td>
+        <td>Day_28_Sample</td>
+        <td>Day_28_H.W.</td>
+        <td>Day_28_Solution</td>
+    </tr>
+    <tr>
+        <td>用機率分布描述亂中有序的世界 - 連續型分配</td>
+        <td>Day_29_Sample</td>
+        <td>Day_29_H.W.</td>
+        <td>Day_29_Solution</td>
+    </tr>
+    <tr>
+        <td>用貝氏定理讓你決策更精準</td>
+        <td>Day_30_Sample</td>
+        <td>Day_30_H.W.</td>
+        <td>Day_30_Solution</td>
+    </tr>
 </table>
 <br>
 
