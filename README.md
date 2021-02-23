@@ -23,8 +23,8 @@
     <tr>
         <td>NumPy 陣列運算及數學函式</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_03_Sample.ipynb">Day_03_Sample</a> </td>
-        <td> Day_03_H.W. </td>
-        <td> Day_03_Solution </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_03_Homework.ipynb">Day_03_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution.ipynb">Day_03_Solution</a> </td>
     </tr>
     <tr>
         <td>NumPy 陣列邏輯函式</td>
