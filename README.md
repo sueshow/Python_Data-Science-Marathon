@@ -29,8 +29,8 @@
     <tr>
         <td>NumPy 陣列邏輯函式</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_04_Sample.ipynb">Day_04_Sample</a> </td>
-        <td>Day_04_H.W.</td>
-        <td>Day_04_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_04_Homework.ipynb">Day_04_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution.ipynb">Day_04_Solution</a> </td>
     </tr>
     <tr>
         <td>NumPy 統計函式</td>
