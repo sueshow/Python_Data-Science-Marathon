@@ -12,31 +12,39 @@
         <td>NumPy 基本操作</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_01_Sample.ipynb">Day_01_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework.ipynb">Day_01_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution.ipynb">Day_01_Solution</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution_基本.ipynb">Day_01_Solution_基本</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution_進階.ipynb">Day_01_Solution_進階</a> <br>
+        </td>
     </tr>
     <tr>
         <td>NumPy 陣列進階操作</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_02_Sample.ipynb">Day_02_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_02_Homework.ipynb">Day_02_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_02_Solution.ipynb">Day_02_Solution</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_02_Solution_基本.ipynb">Day_02_Solution_基本</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_02_Solution_進階.ipynb">Day_02_Solution_進階</a> <br>
+        </td>
     </tr>
     <tr>
         <td>NumPy 陣列運算及數學函式</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_03_Sample.ipynb">Day_03_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_03_Homework.ipynb">Day_03_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution.ipynb">Day_03_Solution</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_基本.ipynb">Day_03_Solution_基本</a> <br> 
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_進階.ipynb">Day_03_Solution_進階</a> 
+        </td>
     </tr>
     <tr>
         <td>NumPy 陣列邏輯函式</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_04_Sample.ipynb">Day_04_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_04_Homework.ipynb">Day_04_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution.ipynb">Day_04_Solution</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_基本.ipynb">Day_04_Solution_基本</a> <br> 
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_進階.ipynb">Day_04_Solution_進階</a> </td>
     </tr>
     <tr>
         <td>NumPy 統計函式</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample.ipynb">Day_05_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_05_Homework.ipynb">Day_05_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution.ipynb">Day_05_Solution</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_基本.ipynb">Day_05_Solution_基本</a> <br> 
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階.ipynb">Day_05_Solution_進階</a> </td>
     </tr>
     <tr>
         <td>使用 NumPy 存取各種檔案內容</td>
