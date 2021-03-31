@@ -6,7 +6,7 @@
         <th width="20%">主題</a>
         <th width="10%">範例(含筆記)</a>
         <th width="10%">作業</a>
-        <th width="20%">解答</a>
+        <th width="25%">解答</a>
     </tr>
     <tr>
         <td>NumPy 基本操作</td>
