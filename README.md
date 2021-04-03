@@ -28,20 +28,16 @@
         <td> NumPy 結構化陣列 <br> (陣列的初始化)</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_03_Sample.ipynb">Day_03_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_03_Homework.ipynb">Day_03_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_基本_v1.ipynb">Day_03_Solution_基本_v1</a> <br> 
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_進階_v1.ipynb">Day_03_Solution_進階_v1</a> <br>
-            <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_基本_v2.ipynb">Day_03_Solution_基本_v2</a> <br>
-            <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_基本_v2.ipynb">Day_03_Solution_基本_v2</a> 
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_基本.ipynb">Day_03_Solution_基本</a> <br> 
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_進階.ipynb">Day_03_Solution_進階</a> <br>
         </td>
     </tr>
     <tr>
-        <td> NumPy 陣列運算及數學函式 <br> (陣列的初始化、算術運算)</td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_03_Sample.ipynb">Day_03_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_03_Homework.ipynb">Day_03_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_基本_v1.ipynb">Day_03_Solution_基本_v1</a> <br> 
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_進階_v1.ipynb">Day_03_Solution_進階_v1</a> <br>
-            <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_基本_v2.ipynb">Day_03_Solution_基本_v2</a> <br>
-            <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_基本_v2.ipynb">Day_03_Solution_基本_v2</a> 
+        <td> NumPy 陣列運算及數學函式 <br> (算術運算)</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_04_Sample.ipynb">Day_03_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_04_Homework.ipynb">Day_03_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_基本.ipynb">Day_04_Solution_基本</a> <br> 
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_進階.ipynb">Day_04_Solution_進階</a> <br>
         </td>
     </tr>
     <tr>
