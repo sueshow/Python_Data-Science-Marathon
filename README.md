@@ -34,8 +34,8 @@
     </tr>
     <tr>
         <td> NumPy 陣列運算及數學函式 <br> (算術運算)</td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_04_Sample.ipynb">Day_03_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_04_Homework.ipynb">Day_03_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_04_Sample.ipynb">Day_04_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_04_Homework.ipynb">Day_04_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_基本.ipynb">Day_04_Solution_基本</a> <br> 
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_進階.ipynb">Day_04_Solution_進階</a> <br>
         </td>
