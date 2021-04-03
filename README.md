@@ -236,6 +236,24 @@
         <td>Day_30_H.W.</td>
         <td>Day_30_Solution</td>
     </tr>
+    <tr>
+        <td>掌握 A/B Test 的精隨 - 假設檢定的概念</td>
+        <td>  </td>
+        <td>Day_31_H.W.</td>
+        <td>Day_31_Solution</td>
+    </tr>
+    <tr>
+        <td>掌握 A/B Test 的精隨 - 假設檢定的進階概念與種類</td>
+        <td>  </td>
+        <td>Day_32_H.W.</td>
+        <td>Day_32_Solution</td>
+    </tr>
+    <tr>
+        <td>A/B Test 的執行流程與計算</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_33_Sample.ipynb">Day_33_Sample</a> </td>
+        <td>Day_33_H.W.</td>
+        <td>Day_33_Solution</td>
+    </tr>
 </table>
 <br>
 
