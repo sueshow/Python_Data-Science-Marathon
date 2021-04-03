@@ -42,10 +42,9 @@
     </tr>
     <tr>
         <td>NumPy 陣列邏輯函式</td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_04_Sample.ipynb">Day_04_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_04_Homework.ipynb">Day_04_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_基本.ipynb">Day_04_Solution_基本</a> <br> 
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_進階.ipynb">Day_04_Solution_進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_04_Sample_補充.ipynb">Day_04_Sample_補充</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_04_Homework_補充.ipynb">Day_04_H.W._補充</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_補充_進階.ipynb">Day_04_Solution_補充_進階</a> </td>
     </tr>
     <tr>
         <td>NumPy 統計函式</td>
