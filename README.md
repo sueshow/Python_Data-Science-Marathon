@@ -1,5 +1,14 @@
 # Python 資料科學程式馬拉松
 
+## 學習大綱
+* NumPy 程式開發實作
+* Pandas 程式開發實作
+* Data Visualization 資料視覺化( Matplotlib/Seaborn )
+* 統計的基礎知識
+* 手把手來場資料科學專案吧!
+* 期末專題實作
+
+
 ## NumPy 程式開發實作
 <table border="1" width="60%">
     <tr>
@@ -74,6 +83,7 @@
 </table>
 <br>
  
+ 
 ## Pandas 程式開發實作
 <table border="1" width="60%">
     <tr>
@@ -139,6 +149,7 @@
 </table>
 <br>
 
+
 ## Data Visualization 資料視覺化( Matplotlib/Seaborn )
 <table border="1" width="60%">
     <tr>
@@ -198,6 +209,7 @@
 </table>
 <br>
 
+
 ## 統計的基礎知識
 <table border="1" width="60%">
     <tr>
@@ -256,6 +268,61 @@
     </tr>
 </table>
 <br>
+
+
+## 手把手來場資料科學專案吧
+<table border="1" width="60%">
+    <tr>
+        <th width="30%">主題</a>
+        <th width="10%">範例</a>
+        <th width="10%">作業</a>
+        <th width="10%">解答</a>
+    </tr>
+    <tr>
+        <td>淺談資料科學與 EDA 所扮演的角色與重要性</td>
+        <td>  </td>
+        <td>Day_34_H.W.</td>
+        <td>Day_34_Solution</td>
+    </tr>
+    <tr>
+        <td>探索性資料分析(EDA)_數據理解與重覆和遺失值處理</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_35_Sample.ipynb">Day_35_Sample</a> </td>
+        <td>Day_35_H.W.</td>
+        <td>Day_35_Solution</td>
+    </tr>
+    <tr>
+        <td>探索性資料分析(EDA)_異常值偵測</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_36_Sample.ipynb">Day_36_Sample</a> </td>
+        <td>Day_36_H.W.</td>
+        <td>Day_36_Solution</td>
+    </tr>
+    <tr>
+        <td>探索性資料分析(EDA)_遺失值與異常值的進階補值策略</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_37_Sample.ipynb">Day_37_Sample</a> </td>
+        <td>Day_37_H.W.</td>
+        <td>Day_37_Solution</td>
+    </tr>
+    <tr>
+        <td>探索性資料分析(EDA)_探討變數之間的關係</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_38_Sample.ipynb">Day_38_Sample</a> </td>
+        <td>Day_38_H.W.</td>
+        <td>Day_38_Solution</td>
+    </tr>
+    <tr>
+        <td>探索性資料分析(EDA)_從資料中生成特徵</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_39_Sample.ipynb">Day_39_Sample</a> </td>
+        <td>Day_39_H.W.</td>
+        <td>Day_39_Solution</td>
+    </tr>
+    <tr>
+        <td>探索性資料分析(EDA)_從資料中選取好的特徵</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_40_Sample.ipynb">Day_40_Sample</a> </td>
+        <td>Day_40_H.W.</td>
+        <td>Day_40_Solution</td>
+    </tr>
+</table>
+<br>
+
 
 ## 參考資料
 * [Markdown 表格語法原則](https://blog.fntsr.tw/articles/726/)
