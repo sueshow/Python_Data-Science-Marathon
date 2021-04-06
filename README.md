@@ -147,7 +147,7 @@
         <td>Day_17_Solution</td>
     </tr>    
 </table>
-Back to <button onclick="topFunction()" id="myBtn" title="學習大綱">學習大綱</button>
+Back to [學習大綱](https://github.com/sueshow/Data_Science_Marathon#學習大綱)
 <br>
 
 
