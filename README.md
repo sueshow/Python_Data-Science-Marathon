@@ -330,7 +330,39 @@ Back to <a href="#學習大綱">學習大綱</a>
 <br>
 
 
-#期末專題實作
+## 期末專題實作
+<table border="1" width="60%">
+    <tr>
+        <th width="30%">主題</a>
+        <th width="10%">作業</a>
+        <th width="10%">解答</a>
+    </tr>
+    <tr>
+        <td> COVID 19 資料視覺化 </td>
+        <td>  </td>
+        <td> Solution_01 </td>
+    </tr>
+    <tr>
+        <td> Netfiex 資料視覺化 </td>
+        <td>  </td>
+        <td> Solution_02 </td>
+    </tr>
+    <tr>
+        <td> 不動產時價登入分析 </td>
+        <td>  </td>
+        <td> Solution_03 </td>
+    </tr>
+    <tr>
+        <td> 電商網頁銷售改進效果之 A/B Test 分析 </td>
+        <td>  </td>
+        <td> Solution_04 </td>
+    </tr>
+    <tr>
+        <td> Udacity 教學網站註冊效果之 A/B Test 分析 </td>
+        <td>  </td>
+        <td> Solution_05 </td>
+    </tr>
+</table>
 Back to <a href="#學習大綱">學習大綱</a>
 <br>
 
