@@ -1,16 +1,16 @@
 # Python 資料科學程式馬拉松
 
 ## 學習大綱
-* <a href="#NumPy 程式開發實作">NumPy 程式開發實作</a>
-* <a href="#Pandas 程式開發實作">Pandas 程式開發實作</a>
-* <a href="#Data Visualization 資料視覺化( Matplotlib/Seaborn )">Data Visualization 資料視覺化( Matplotlib/Seaborn )</a>
+* <a href="#NumPy_程式開發實作">NumPy 程式開發實作</a>
+* <a href="#Pandas_程式開發實作">Pandas 程式開發實作</a>
+* <a href="#Data-Visualization_資料視覺化(Matplotlib/Seaborn)">Data Visualization 資料視覺化( Matplotlib/Seaborn )</a>
 * <a href="#統計的基礎知識">統計的基礎知識</a>
 * <a href="#手把手來場資料科學專案">手把手來場資料科學專案</a>
 * <a href="#期末專題實作">期末專題實作</a>
 * <a href="#參考資料">參考資料</a>
 
 
-## NumPy 程式開發實作
+## NumPy_程式開發實作
 <table border="1" width="60%">
     <tr>
         <th width="20%">主題</a>
@@ -86,7 +86,7 @@ Back to <a href="#學習大綱">學習大綱</a>
 <br>
  
  
-## Pandas 程式開發實作
+## Pandas_程式開發實作
 <table border="1" width="60%">
     <tr>
         <th width="30%">主題</a>
@@ -153,7 +153,7 @@ Back to <a href="#學習大綱">學習大綱</a>
 <br>
 
 
-## Data Visualization 資料視覺化( Matplotlib/Seaborn )
+## Data-Visualization_資料視覺化(Matplotlib/Seaborn)
 <table border="1" width="60%">
     <tr>
         <th width="30%">主題</a>
