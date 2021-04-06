@@ -7,6 +7,7 @@
 * 統計的基礎知識
 * 手把手來場資料科學專案吧!
 * 期末專題實作
+* 參考資料
 
 
 ## NumPy 程式開發實作
@@ -81,6 +82,7 @@
         <td>Day_08_Solution</td>
     </tr>
 </table>
+Back to <a href="#學習大綱">學習大綱</a>
 <br>
  
  
@@ -147,7 +149,7 @@
         <td>Day_17_Solution</td>
     </tr>    
 </table>
-<a href="#學習大綱">Back to 學習大綱</a>
+Back to <a href="#學習大綱">學習大綱</a>
 <br>
 
 
@@ -208,6 +210,7 @@
         <td>Day_25_Solution</td>
     </tr>
 </table>
+Back to <a href="#學習大綱">學習大綱</a>
 <br>
 
 
@@ -268,6 +271,7 @@
         <td>Day_33_Solution</td>
     </tr>
 </table>
+Back to <a href="#學習大綱">學習大綱</a>
 <br>
 
 
@@ -322,6 +326,7 @@
         <td>Day_40_Solution</td>
     </tr>
 </table>
+Back to <a href="#學習大綱">學習大綱</a>
 <br>
 
 
@@ -330,3 +335,4 @@
 * [Markdown 使用](https://zj-sphinx-github-readthedocs.readthedocs.io/en/latest/markdown/Markdown%E4%BD%BF%E7%94%A8-4-%E8%A1%A8%E6%A0%BC/)
 * https://www.jianshu.com/p/9ab92efc286a
 * [HTML 語法](http://web.thu.edu.tw/hzed/www/tag.htm)
+Back to <a href="#學習大綱">學習大綱</a>
