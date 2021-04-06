@@ -331,11 +331,11 @@ Back to <a href="#學習大綱">學習大綱</a>
 
 
 ## 期末專題實作
-<table border="1" width="60%">
+<table border="1" width="30%">
     <tr>
-        <th width="30%">主題</a>
-        <th width="10%">作業</a>
-        <th width="10%">解答</a>
+        <th width="20%">主題</a>
+        <th width="5%">作業</a>
+        <th width="5%">解答</a>
     </tr>
     <tr>
         <td> COVID 19 資料視覺化 </td>
