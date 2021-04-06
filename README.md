@@ -275,7 +275,7 @@ Back to <a href="#學習大綱">學習大綱</a>
 <br>
 
 
-## 手把手來場資料科學專案吧
+## 手把手來場資料科學專案
 <table border="1" width="60%">
     <tr>
         <th width="30%">主題</a>
