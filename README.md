@@ -1,8 +1,8 @@
 # Python 資料科學程式馬拉松
 
 ## 學習大綱
-* ![NumPy 程式開發實作](#NumPy 程式開發實作)
-* ![Pandas 程式開發實作](#Pandas 程式開發實作)
+* [NumPy 程式開發實作](#NumPy 程式開發實作)
+* [Pandas 程式開發實作](#Pandas 程式開發實作)
 * <a href="#Data Visualization 資料視覺化( Matplotlib/Seaborn )">Data Visualization 資料視覺化( Matplotlib/Seaborn )</a>
 * <a href="#統計的基礎知識">統計的基礎知識</a>
 * <a href="#手把手來場資料科學專案">手把手來場資料科學專案</a>
