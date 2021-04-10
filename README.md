@@ -52,9 +52,9 @@
     </tr>
     <tr>
         <td>NumPy 陣列邏輯函式</td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_補充.ipynb">Day_05_Sample_補充</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_05_Homework_補充.ipynb">Day_05_H.W._補充</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_補充_進階.ipynb">Day_05_Solution_補充</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_04_Sample_補充.ipynb">Day_04_Sample_補充</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_04_Homework_補充.ipynb">Day_04_H.W._補充</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_補充_進階.ipynb">Day_04_Solution_補充</a> </td>
     </tr>
     <tr>
         <td>NumPy 統計函式 (陣列的方法與函式)</td>
