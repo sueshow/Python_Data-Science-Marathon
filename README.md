@@ -54,7 +54,7 @@
     <tr>
         <td>NumPy 陣列邏輯函式</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_基礎.ipynb">Day_05_Sample_基礎</a> <br> 
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Sample_進階.ipynb">Day_05_Solution_進階</a> </td>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Sample_進階.ipynb">Day_05_Sample_進階</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_05_Homework.ipynb">Day_05_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_基本.ipynb">Day_05_Solution_基本</a> <br> 
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階.ipynb">Day_05_Solution_進階</a> </td>
