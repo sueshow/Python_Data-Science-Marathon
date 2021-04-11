@@ -1,5 +1,4 @@
 # Python 資料科學程式馬拉松
-![課程連結](https://github.com/sueshow/Data_Science_Marathon/blob/main/picture/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E7%A8%8B%E5%BC%8F%E9%A6%AC%E6%8B%89%E6%9D%BE.png)
 <a href="https://www.cupoy.com/marathon/00000174C4BC1B93000000016375706F795F70726572656C656173654355"><img src="https://github.com/sueshow/Data_Science_Marathon/blob/main/picture/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E7%A8%8B%E5%BC%8F%E9%A6%AC%E6%8B%89%E6%9D%BE.png"></a>
 
 ## 學習大綱
