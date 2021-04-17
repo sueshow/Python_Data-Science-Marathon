@@ -71,13 +71,13 @@
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v2.ipynb">Day_05_Solution_進階_v2</a> </td>
     </tr>
     <tr>
-        <td> NumPy 陣列的索引、切片和迭代 </td>
+        <td> 使用 NumPy 存取各種檔案內容 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_06_Sample.ipynb">Day_06_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_06_Homework.ipynb">Day_06_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_06_Solution_進階.ipynb">Day_06_Solution_進階</a> </td>
     </tr>
     <tr>
-        <td> 使用 NumPy 存取各種檔案內容 </td>
+        <td> NumPy 陣列的索引、切片和迭代 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_07_Sample.ipynb">Day_07_Sample</a> </td>
         <td>Day_07_H.W.</td>
         <td>Day_07_Solution</td>
