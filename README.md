@@ -60,7 +60,7 @@
     <tr>
         <td>NumPy 陣列邏輯函式 <br>
             NumPy 統計函式 <br>
-            (陣列的方法與函式)
+            (陣列的方法與函式[基礎])
         </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_基礎.ipynb">Day_05_Sample_基礎+進階_v1</a> <br> 
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_進階.ipynb">Day_05_Sample_進階_v2</a> </td>
