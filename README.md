@@ -21,7 +21,7 @@
     </tr>
     <tr>
         <td> NumPy 基本操作 <br> 
-            (陣列的定義與屬性)</td>
+             (陣列的定義與屬性)</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_01_Sample.ipynb">Day_01_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework.ipynb">Day_01_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution_基本.ipynb">Day_01_Solution_基本</a> <br>
@@ -30,8 +30,8 @@
     </tr>
     <tr>
         <td> NumPy 陣列進階操作 <br> 
-            (陣列中不同的資料型態) <br> 
-            (陣列的方法與函式[進階])
+             (陣列中不同的資料型態) <br> 
+             (陣列的方法與函式[進階])
         </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_02_Sample.ipynb">Day_02_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_02_Homework.ipynb">Day_02_H.W.</a> </td>
@@ -41,7 +41,7 @@
     </tr>
     <tr>
         <td> NumPy 結構化陣列 <br> 
-            (陣列的初始化)</td>
+             (陣列的初始化)</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_03_Sample.ipynb">Day_03_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_03_Homework.ipynb">Day_03_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_基本.ipynb">Day_03_Solution_基本</a> <br> 
@@ -50,7 +50,7 @@
     </tr>
     <tr>
         <td> NumPy 陣列運算及數學函式 <br> 
-            (算術運算)</td>
+             (算術運算)</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_04_Sample.ipynb">Day_04_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_04_Homework.ipynb">Day_04_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_基本.ipynb">Day_04_Solution_基本</a> <br> 
@@ -58,9 +58,9 @@
         </td>
     </tr>
     <tr>
-        <td>NumPy 陣列邏輯函式 <br>
-            NumPy 統計函式 <br>
-            (陣列的方法與函式[基礎])
+        <td> NumPy 陣列邏輯函式 <br>
+             NumPy 統計函式 <br>
+             (陣列的方法與函式[基礎])
         </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_基礎+進階_v1.ipynb">Day_05_Sample_基礎+進階_v1</a> <br> 
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_06基礎+進階_v2.ipynb">Day_05_Sample_06基礎+進階_v2</a> </td>
@@ -71,7 +71,7 @@
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v2.ipynb">Day_05_Solution_進階_v2</a> </td>
     </tr>
     <tr>
-        <td>使用 NumPy 存取各種檔案內容 </td>
+        <td> NumPy 陣列的索引、切片和迭代 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_06_Sample.ipynb">Day_06_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_06_Homework.ipynb">Day_06_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_06_Solution_基本.ipynb">Day_06_Solution_基本</a> <br> 
