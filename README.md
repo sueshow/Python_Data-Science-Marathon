@@ -78,7 +78,7 @@
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_06_Solution_進階.ipynb">Day_06_Solution_進階</a> </td>
     </tr>
     <tr>
-        <td> </td>
+        <td> 使用 NumPy 存取各種檔案內容 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_07_Sample.ipynb">Day_07_Sample</a> </td>
         <td>Day_07_H.W.</td>
         <td>Day_07_Solution</td>
