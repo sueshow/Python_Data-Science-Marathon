@@ -80,8 +80,10 @@
         <td> NumPy 的矩陣函式與線性代數應用 <br>
              (NumPy 陣列的索引、切片和迭代) </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_07_Sample.ipynb">Day_07_Sample</a> </td>
-        <td>Day_07_H.W.</td>
-        <td>Day_07_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_07_Homework.ipynb">Day_07_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_07_Solution_基礎.ipynb">Day_07_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_07_Solution_進階.ipynb">Day_07_Solution_進階</a>
+        </td>
     </tr>
     <tr>
         <td> </td>
