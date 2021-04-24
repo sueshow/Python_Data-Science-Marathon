@@ -77,13 +77,14 @@
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_06_Solution_進階.ipynb">Day_06_Solution_進階</a> </td>
     </tr>
     <tr>
-        <td> NumPy 陣列的索引、切片和迭代 </td>
+        <td> NumPy 的矩陣函式與線性代數應用 <br>
+             (NumPy 陣列的索引、切片和迭代) </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_07_Sample.ipynb">Day_07_Sample</a> </td>
         <td>Day_07_H.W.</td>
         <td>Day_07_Solution</td>
     </tr>
     <tr>
-        <td>NumPy 的矩陣函式與線性代數應用</td>
+        <td> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_08_Sample.ipynb">Day_08_Sample</a> </td>
         <td>Day_08_H.W.</td>
         <td>Day_08_Solution</td>
