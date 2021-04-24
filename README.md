@@ -86,13 +86,13 @@
         </td>
     </tr>
     <tr>
-        <td> </td>
+        <td> NumPy 結構化陣列 (Structured Arrays) </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_08_Sample.ipynb">Day_08_Sample</a> </td>
         <td>Day_08_H.W.</td>
         <td>Day_08_Solution</td>
     </tr>
     <tr>
-        <td>NumPy 結構化陣列 (Structured Arrays)</td>
+        <td> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_09_Sample.ipynb">Day_09_Sample</a> </td>
         <td>Day_09_H.W.</td>
         <td>Day_09_Solution</td>
