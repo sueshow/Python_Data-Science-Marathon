@@ -121,49 +121,49 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td>Day_10_Solution</td>
     </tr>
     <tr>
-        <td>  <br> (資料過濾、選擇、合併)</td>
+        <td>  </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_11_Sample.ipynb">Day_11_Sample</a> </td>
         <td>Day_11_H.W.</td>
         <td>Day_11_Solution</td>
     </tr>
     <tr>
-        <td>Pandas 類別資料與缺失值處理</td>
+        <td> Pandas 類別資料與缺失值處理 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_12_Sample.ipynb">Day_12_Sample</a> </td>
         <td>Day_12_H.W.</td>
         <td>Day_12_Solution</td>
     </tr>
     <tr>
-        <td>Pandas 常見圖表程式設計</td>
+        <td> Pandas 常見圖表程式設計 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_13_Sample.ipynb">Day_13_Sample</a> </td>
         <td>Day_13_H.W.</td>
         <td>Day_13_Solution</td>
     </tr>
     <tr>
-        <td>Pandas 統計函式使用教學</td>
+        <td> Pandas 統計函式使用教學 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_14_Sample.ipynb">Day_14_Sample</a> </td>
         <td>Day_14_H.W.</td>
         <td>Day_14_Solution</td>
     </tr>
     <tr>
-        <td>Pandas 撰寫樞紐分析表</td>
+        <td> Pandas 撰寫樞紐分析表 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_15_Sample.ipynb">Day_15_Sample</a> </td>
         <td>Day_15_H.W.</td>
         <td>Day_15_Solution</td>
     </tr>
     <tr>
-        <td>Pandas Split-Apply-Combine Strategy</td>
+        <td> Pandas Split-Apply-Combine Strategy </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_16_Sample.ipynb">Day_16_Sample</a> </td>
         <td>Day_16_H.W.</td>
         <td>Day_16_Solution</td>
     </tr>
     <tr>
-        <td>Pandas 時間序列</td>
+        <td> Pandas 時間序列 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
         <td>Day_17_H.W.</td>
         <td>Day_17_Solution</td>
     </tr>
     <tr>
-        <td>Pandas 效能調校</td>
+        <td> Pandas 效能調校 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_18_Sample.ipynb">Day_18_Sample</a> </td>
         <td>Day_18_H.W.</td>
         <td>Day_18_Solution</td>
@@ -182,49 +182,49 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="10%">解答</a>
     </tr>
     <tr>
-        <td>Python 資料視覺化工具與常見統計圖表介紹</td>
+        <td> Python 資料視覺化工具與常見統計圖表介紹 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_19_Sample.ipynb">Day_19_Sample</a> </td>
         <td>Day_19_H.W.</td>
         <td>Day_19_Solution</td>
     </tr>
     <tr>
-        <td>使用 Matplotlib 繪製各種常用圖表</td>
+        <td> 使用 Matplotlib 繪製各種常用圖表 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_20_Sample.ipynb">Day_20_Sample</a> </td>
         <td>Day_20_H.W.</td>
         <td>Day_20_Solution</td>
     </tr>
     <tr>
-        <td>使用 Seaborn 進行資料視覺化</td>
+        <td> 使用 Seaborn 進行資料視覺化 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_21_Sample.ipynb">Day_21_Sample</a> </td>
         <td>Day_21_H.W.</td>
         <td>Day_21_Solution</td>
     </tr>
     <tr>
-        <td>運用實際資料集進行資料視覺化練習</td>
+        <td> 運用實際資料集進行資料視覺化練習 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_22_Sample.ipynb">Day_22_Sample</a> </td>
         <td>Day_22_H.W.</td>
         <td>Day_22_Solution</td>
     </tr>
     <tr>
-        <td>結合 Pandas 與 Matploglib 進行進階資料視覺化練習</td>
+        <td> 結合 Pandas 與 Matploglib 進行進階資料視覺化練習 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_23_Sample.ipynb">Day_23_Sample</a> </td>
         <td>Day_23_H.W.</td>
         <td>Day_23_Solution</td>
     </tr>
     <tr>
-        <td>Bokeh 輕鬆以網頁呈現視覺化圖表</td>
+        <td> Bokeh 輕鬆以網頁呈現視覺化圖表 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_24_Sample.ipynb">Day_24_Sample</a> </td>
         <td>Day_24_H.W.</td>
         <td>Day_24_Solution</td>
     </tr>
     <tr>
-        <td>Basemap 進行地理資訊繪圖</td>
+        <td> Basemap 進行地理資訊繪圖 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_25_Sample.ipynb">Day_25_Sample</a> </td>
         <td>Day_25_H.W.</td>
         <td>Day_25_Solution</td>
     </tr>
     <tr>
-        <td>使用 Pandas 與 Basemap 將數據整合於地理資訊圖表</td>
+        <td> 使用 Pandas 與 Basemap 將數據整合於地理資訊圖表 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_26_Sample.ipynb">Day_26_Sample</a> </td>
         <td>Day_26_H.W.</td>
         <td>Day_26_Solution</td>
@@ -243,49 +243,49 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="10%">解答</a>
     </tr>
     <tr>
-        <td>用統計描述資料的樣態</td>
+        <td> 用統計描述資料的樣態 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_27_Sample.ipynb">Day_27_Sample</a> </td>
         <td>Day_27_H.W.</td>
         <td>Day_27_Solution</td>
     </tr>
     <tr>
-        <td>用機率分布描述亂中有序的世界 - 離散型分配(1)</td>
+        <td> 用機率分布描述亂中有序的世界 - 離散型分配(1) </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_28_Sample.ipynb">Day_28_Sample</a> </td>
         <td>Day_28_H.W.</td>
         <td>Day_28_Solution</td>
     </tr>
     <tr>
-        <td>用機率分布描述亂中有序的世界 - 離散型分配(2)</td>
+        <td> 用機率分布描述亂中有序的世界 - 離散型分配(2) </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_29_Sample.ipynb">Day_29_Sample</a> </td>
         <td>Day_29_H.W.</td>
         <td>Day_29_Solution</td>
     </tr>
     <tr>
-        <td>用機率分布描述亂中有序的世界 - 連續型分配</td>
+        <td> 用機率分布描述亂中有序的世界 - 連續型分配 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_30_Sample.ipynb">Day_30_Sample</a> </td>
         <td>Day_30_H.W.</td>
         <td>Day_30_Solution</td>
     </tr>
     <tr>
-        <td>用貝氏定理讓你決策更精準</td>
+        <td> 用貝氏定理讓你決策更精準 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_31_Sample.ipynb">Day_31_Sample</a> </td>
         <td>Day_31_H.W.</td>
         <td>Day_31_Solution</td>
     </tr>
     <tr>
-        <td>掌握 A/B Test 的精隨 - 假設檢定的概念</td>
+        <td> 掌握 A/B Test 的精隨 - 假設檢定的概念 </td>
         <td>  </td>
         <td>Day_32_H.W.</td>
         <td>Day_32_Solution</td>
     </tr>
     <tr>
-        <td>掌握 A/B Test 的精隨 - 假設檢定的進階概念與種類</td>
+        <td> 掌握 A/B Test 的精隨 - 假設檢定的進階概念與種類 </td>
         <td>  </td>
         <td>Day_33_H.W.</td>
         <td>Day_33_Solution</td>
     </tr>
     <tr>
-        <td>A/B Test 的執行流程與計算</td>
+        <td> A/B Test 的執行流程與計算 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_34_Sample.ipynb">Day_34_Sample</a> </td>
         <td>Day_34_H.W.</td>
         <td>Day_34_Solution</td>
@@ -304,43 +304,43 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="10%">解答</a>
     </tr>
     <tr>
-        <td>淺談資料科學與 EDA 所扮演的角色與重要性</td>
+        <td> 淺談資料科學與 EDA 所扮演的角色與重要性 </td>
         <td>  </td>
         <td>Day_35_H.W.</td>
         <td>Day_35_Solution</td>
     </tr>
     <tr>
-        <td>探索性資料分析(EDA)_數據理解與重覆和遺失值處理</td>
+        <td> 探索性資料分析(EDA)_數據理解與重覆和遺失值處理 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_36_Sample.ipynb">Day_36_Sample</a> </td>
         <td>Day_36_H.W.</td>
         <td>Day_36_Solution</td>
     </tr>
     <tr>
-        <td>探索性資料分析(EDA)_異常值偵測</td>
+        <td> 探索性資料分析(EDA)_異常值偵測 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_37_Sample.ipynb">Day_37_Sample</a> </td>
         <td>Day_37_H.W.</td>
         <td>Day_37_Solution</td>
     </tr>
     <tr>
-        <td>探索性資料分析(EDA)_遺失值與異常值的進階補值策略</td>
+        <td> 探索性資料分析(EDA)_遺失值與異常值的進階補值策略 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_38_Sample.ipynb">Day_38_Sample</a> </td>
         <td>Day_38_H.W.</td>
         <td>Day_38_Solution</td>
     </tr>
     <tr>
-        <td>探索性資料分析(EDA)_探討變數之間的關係</td>
+        <td> 探索性資料分析(EDA)_探討變數之間的關係 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_39_Sample.ipynb">Day_39_Sample</a> </td>
         <td>Day_39_H.W.</td>
         <td>Day_39_Solution</td>
     </tr>
     <tr>
-        <td>探索性資料分析(EDA)_從資料中生成特徵</td>
+        <td> 探索性資料分析(EDA)_從資料中生成特徵 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_40_Sample.ipynb">Day_40_Sample</a> </td>
         <td>Day_40_H.W.</td>
         <td>Day_40_Solution</td>
     </tr>
     <tr>
-        <td>探索性資料分析(EDA)_從資料中選取好的特徵</td>
+        <td> 探索性資料分析(EDA)_從資料中選取好的特徵 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_41_Sample.ipynb">Day_41_Sample</a> </td>
         <td>Day_41_H.W.</td>
         <td>Day_41_Solution</td>
