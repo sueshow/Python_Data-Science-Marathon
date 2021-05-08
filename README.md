@@ -105,10 +105,14 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="10%">解答</a>
     </tr>
     <tr>
-        <td>使用 Pandas 讀寫各種常用的檔案格式</td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_10_Sample.ipynb">Day_10_Sample</a> </td>
-        <td>Day_10_H.W.</td>
-        <td>Day_10_Solution</td>
+        <td> 使用 Pandas 讀寫各種常用的檔案格式 <br>
+             [Pandas 物件的定義與屬性] <br>
+             [使用 Pandas DataFrame 的初始化] </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_09_Sample.ipynb">Day_09_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_09_Homework.ipynb">Day_09_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_08_Solution_基礎.ipynb">Day_08_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_進階.ipynb">Day_09_Solution_進階</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_進階.ipynb">Day_09_Solution_進階</a> </td>
     </tr>
     <tr>
         <td>Pandas 資料索引操作 <br> (資料過濾、選擇、合併)</td>
