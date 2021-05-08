@@ -111,14 +111,15 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_09_Sample.ipynb">Day_09_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_09_Homework.ipynb">Day_09_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_08_Solution_基礎.ipynb">Day_08_Solution_基礎</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_進階.ipynb">Day_09_Solution_進階</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_基礎.ipynb">Day_09_Solution_基礎</a> <br>
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_進階.ipynb">Day_09_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> Pandas 資料索引操作 <br> (資料過濾、選擇、合併)</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_10_Sample.ipynb">Day_10_Sample</a> </td>
-        <td>Day_10_H.W.</td>
-        <td>Day_10_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_10_Homework.ipynb">Day_10_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_10_Solution_基礎.ipynb">Day_10_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_10_Solution_進階.ipynb">Day_10_Solution_進階</a> </td>
     </tr>
     <tr>
         <td>  </td>
