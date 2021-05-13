@@ -12,7 +12,7 @@
 
 
 ## NumPy_程式開發實作
-<table border="1" width="60%">
+<table border="1" width="65%">
     <tr>
         <th width="20%">主題</a>
         <th width="10%">範例(含筆記)</a>
@@ -97,12 +97,12 @@ Back to <a href="#學習大綱">學習大綱</a>
  
  
 ## Pandas_程式開發實作
-<table border="1" width="60%">
+<table border="1" width="65%">
     <tr>
-        <th width="30%">主題</a>
+        <th width="20%">主題</a>
         <th width="10%">範例</a>
         <th width="10%">作業</a>
-        <th width="10%">解答</a>
+        <th width="25%">解答</a>
     </tr>
     <tr>
         <td> 使用 Pandas 讀寫各種常用的檔案格式 <br>
@@ -176,12 +176,12 @@ Back to <a href="#學習大綱">學習大綱</a>
 
 
 ## Data-Visualization_資料視覺化
-<table border="1" width="60%">
+<table border="1" width="65%">
     <tr>
-        <th width="30%">主題</a>
+        <th width="20%">主題</a>
         <th width="10%">範例</a>
         <th width="10%">作業</a>
-        <th width="10%">解答</a>
+        <th width="25%">解答</a>
     </tr>
     <tr>
         <td> Python 資料視覺化工具與常見統計圖表介紹 </td>
@@ -237,12 +237,12 @@ Back to <a href="#學習大綱">學習大綱</a>
 
 
 ## 統計的基礎知識
-<table border="1" width="60%">
+<table border="1" width="65%">
     <tr>
-        <th width="30%">主題</a>
+        <th width="20%">主題</a>
         <th width="10%">範例</a>
         <th width="10%">作業</a>
-        <th width="10%">解答</a>
+        <th width="25%">解答</a>
     </tr>
     <tr>
         <td> 用統計描述資料的樣態 </td>
@@ -298,12 +298,12 @@ Back to <a href="#學習大綱">學習大綱</a>
 
 
 ## 手把手來場資料科學專案
-<table border="1" width="60%">
+<table border="1" width="65%">
     <tr>
-        <th width="30%">主題</a>
+        <th width="20%">主題</a>
         <th width="10%">範例</a>
         <th width="10%">作業</a>
-        <th width="10%">解答</a>
+        <th width="25%">解答</a>
     </tr>
     <tr>
         <td> 淺談資料科學與 EDA 所扮演的角色與重要性 </td>
