@@ -123,13 +123,16 @@ Back to <a href="#學習大綱">學習大綱</a>
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_10_Solution_進階.ipynb">Day_10_Solution_進階</a> </td>
     </tr>
     <tr>
-        <td>  </td>
+        <td> Pandas 類別資料與缺失值處理 <br>
+             [Pandas 中的算術運算特性] </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_11_Sample.ipynb">Day_11_Sample</a> </td>
-        <td>Day_11_H.W.</td>
-        <td>Day_11_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_11_Homework.ipynb">Day_11_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11_Solution_基礎.ipynb">Day_11_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11-1_Solution_進階.ipynb">Day_11-1_Solution_進階</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11-2_Solution_進階.ipynb">Day_11-2_Solution_進階</a> </td>
     </tr>
     <tr>
-        <td> Pandas 類別資料與缺失值處理 </td>
+        <td>  </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_12_Sample.ipynb">Day_12_Sample</a> </td>
         <td>Day_12_H.W.</td>
         <td>Day_12_Solution</td>
