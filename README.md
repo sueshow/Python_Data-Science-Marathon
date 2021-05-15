@@ -134,8 +134,8 @@ Back to <a href="#學習大綱">學習大綱</a>
     <tr>
         <td> [Pandas 迭代與重複操作] </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_12_Sample.ipynb">Day_12_Sample</a> </td>
-        <td>Day_12_H.W.</td>
-        <td>Day_12_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_12_Homework.ipynb">Day_12_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_12_Solution_基礎.ipynb">Day_12_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> Pandas 常見圖表程式設計 </td>
