@@ -147,9 +147,9 @@ Back to <a href="#學習大綱">學習大綱</a>
     </tr>
     <tr>
         <td> Pandas 常見圖表程式設計 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_13_Sample_進階.ipynb">Day_13_Sample_進階</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_13_Homework_進階.ipynb">Day_13_H.W._進階</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_13_Solution_進階.ipynb">Day_13_Solution_進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_12_Sample_進階.ipynb">Day_12_Sample_進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_12_Homework_進階.ipynb">Day_12_H.W._進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_12_Solution_進階.ipynb">Day_12_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> Pandas 統計函式使用教學 </td>
