@@ -164,13 +164,13 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_15_Solution_基礎.ipynb">Day_15_Solution_基礎</a> </td>
     </tr>
     <tr>
-        <td></td>
+        <td> Pandas 執行聚合運算 (Split-Apply-Combine Strategy) </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_15_Sample.ipynb">Day_15_Sample</a> </td>
         <td>Day_15_H.W.</td>
         <td>Day_15_Solution</td>
     </tr>
     <tr>
-        <td> Pandas Split-Apply-Combine Strategy </td>
+        <td>  </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_16_Sample.ipynb">Day_16_Sample</a> </td>
         <td>Day_16_H.W.</td>
         <td>Day_16_Solution</td>
