@@ -179,7 +179,7 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> Pandas 效能調校 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_18_Sample.ipynb">Day_18_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_18_Homework.pptx">Day_18_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_18_Solution_基礎.pptx">Day_18_Solution_基礎</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_18_Solution_%E5%9F%BA%E7%A4%8E.pptx">Day_18_Solution_基礎</a> </td>
     </tr>    
 </table>
 Back to <a href="#學習大綱">學習大綱</a>
