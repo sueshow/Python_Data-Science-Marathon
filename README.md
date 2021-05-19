@@ -176,16 +176,10 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_17_Solution_基礎.ipynb">Day_17_Solution_基礎</a> </td>
     </tr>
     <tr>
-        <td> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
-        <td>Day_17_H.W.</td>
-        <td>Day_17_Solution</td>
-    </tr>
-    <tr>
         <td> Pandas 效能調校 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_18_Sample.ipynb">Day_18_Sample</a> </td>
-        <td>Day_18_H.W.</td>
-        <td>Day_18_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_18_Homework.ipynb">Day_18_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_18_Solution_基礎.ipynb">Day_18_Solution_基礎</a> </td>
     </tr>    
 </table>
 Back to <a href="#學習大綱">學習大綱</a>
@@ -199,6 +193,12 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="10%">範例</a>
         <th width="10%">作業</a>
         <th width="25%">解答</a>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
+        <td>Day_17_H.W.</td>
+        <td>Day_17_Solution</td>
     </tr>
     <tr>
         <td> Python 資料視覺化工具與常見統計圖表介紹 </td>
