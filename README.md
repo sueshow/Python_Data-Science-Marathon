@@ -165,18 +165,18 @@ Back to <a href="#學習大綱">學習大綱</a>
     </tr>
     <tr>
         <td> Pandas 執行聚合運算 (Split-Apply-Combine Strategy) </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_15_Sample.ipynb">Day_15_Sample</a> </td>
-        <td>Day_15_H.W.</td>
-        <td>Day_15_Solution</td>
-    </tr>
-    <tr>
-        <td>  </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_16_Sample.ipynb">Day_16_Sample</a> </td>
-        <td>Day_16_H.W.</td>
-        <td>Day_16_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_16_Homework.ipynb">Day_16_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_16_Solution_基礎.ipynb">Day_16_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> Pandas 時間序列 </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_17_Homework.ipynb">Day_17_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_17_Solution_基礎.ipynb">Day_17_Solution_基礎</a> </td>
+    </tr>
+    <tr>
+        <td> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
         <td>Day_17_H.W.</td>
         <td>Day_17_Solution</td>
