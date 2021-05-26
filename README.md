@@ -22,10 +22,10 @@
     <tr>
         <td> NumPy 基本操作 <br> 
              [陣列的定義與屬性] </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_01_Sample.ipynb">Day_01_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework.ipynb">Day_01_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution_基本.ipynb">Day_01_Solution_基本</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution_進階.ipynb">Day_01_Solution_進階</a> <br>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_01_Sample.ipynb"> Day_01_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework.ipynb"> Day_01_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution_基本.ipynb"> Day_01_Solution_基本</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution_進階.ipynb"> Day_01_Solution_進階</a> <br>
         </td>
     </tr>
     <tr>
@@ -33,28 +33,28 @@
              [陣列中不同的資料型態] <br> 
              [陣列的方法與函式[進階]]
         </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_02_Sample.ipynb">Day_02_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_02_Homework.ipynb">Day_02_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_02_Solution_基本.ipynb">Day_02_Solution_基本</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_02_Solution_進階.ipynb">Day_02_Solution_進階</a> <br>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_02_Sample.ipynb"> Day_02_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_02_Homework.ipynb"> Day_02_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_02_Solution_基本.ipynb"> Day_02_Solution_基本</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_02_Solution_進階.ipynb"> Day_02_Solution_進階</a> <br>
         </td>
     </tr>
     <tr>
         <td> NumPy 結構化陣列 <br> 
              [陣列的初始化]</td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_03_Sample.ipynb">Day_03_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_03_Homework.ipynb">Day_03_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_基本.ipynb">Day_03_Solution_基本</a> <br> 
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_進階.ipynb">Day_03_Solution_進階</a> <br>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_03_Sample.ipynb"> Day_03_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_03_Homework.ipynb"> Day_03_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_基本.ipynb"> Day_03_Solution_基本</a> <br> 
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_進階.ipynb"> Day_03_Solution_進階</a> <br>
         </td>
     </tr>
     <tr>
         <td> NumPy 陣列運算及數學函式 <br> 
              [算術運算]</td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_04_Sample.ipynb">Day_04_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_04_Homework.ipynb">Day_04_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_基本.ipynb">Day_04_Solution_基本</a> <br> 
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_進階.ipynb">Day_04_Solution_進階</a> <br>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_04_Sample.ipynb"> Day_04_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_04_Homework.ipynb"> Day_04_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_基本.ipynb"> Day_04_Solution_基本</a> <br> 
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_進階.ipynb"> Day_04_Solution_進階</a> <br>
         </td>
     </tr>
     <tr>
@@ -62,34 +62,34 @@
              NumPy 統計函式 <br>
              [陣列的方法與函式[基礎]]
         </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_基礎+進階_v1.ipynb">Day_05_Sample_基礎+進階_v1</a> <br> 
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_06基礎+進階_v2.ipynb">Day_05_Sample_06基礎+進階_v2</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_05_Homework.ipynb">Day_05_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_基本.ipynb">Day_05_Solution_基本</a> <br> 
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_06_Solution_基本.ipynb">Day_06_Solution_基本</a> <br> 
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v1.ipynb">Day_05_Solution_進階_v1</a> <br> 
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v2.ipynb">Day_05_Solution_進階_v2</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_基礎+進階_v1.ipynb"> Day_05_Sample_基礎+進階_v1</a> <br> 
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_06基礎+進階_v2.ipynb"> Day_05_Sample_06基礎+進階_v2</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_05_Homework.ipynb"> Day_05_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_基本.ipynb"> Day_05_Solution_基本</a> <br> 
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_06_Solution_基本.ipynb"> Day_06_Solution_基本</a> <br> 
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v1.ipynb"> Day_05_Solution_進階_v1</a> <br> 
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v2.ipynb"> Day_05_Solution_進階_v2</a> </td>
     </tr>
     <tr>
         <td> 使用 NumPy 存取各種檔案內容 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_06_Sample.ipynb">Day_06_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_06_Homework.ipynb">Day_06_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_06_Solution_進階.ipynb">Day_06_Solution_進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_06_Sample.ipynb"> Day_06_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_06_Homework.ipynb"> Day_06_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_06_Solution_進階.ipynb"> Day_06_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> NumPy 的矩陣函式與線性代數應用 <br>
              [NumPy 陣列的索引、切片和迭代] </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_07_Sample.ipynb">Day_07_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_07_Homework.ipynb">Day_07_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_07_Solution_基礎.ipynb">Day_07_Solution_基礎</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_07_Solution_進階.ipynb">Day_07_Solution_進階</a>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_07_Sample.ipynb"> Day_07_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_07_Homework.ipynb"> Day_07_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_07_Solution_基礎.ipynb"> Day_07_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_07_Solution_進階.ipynb"> Day_07_Solution_進階</a>
         </td>
     </tr>
     <tr>
         <td> NumPy 結構化陣列 (Structured Arrays) </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_08_Sample.ipynb">Day_08_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_08_Homework.ipynb">Day_08_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_08_Solution_進階.ipynb">Day_08_Solution_進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_08_Sample.ipynb"> Day_08_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_08_Homework.ipynb"> Day_08_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_08_Solution_進階.ipynb"> Day_08_Solution_進階</a> </td>
     </tr>
 </table>
 Back to <a href="#學習大綱">學習大綱</a>
@@ -108,78 +108,78 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> 使用 Pandas 讀寫各種常用的檔案格式 <br>
              [Pandas 物件的定義與屬性] <br>
              [使用 Pandas DataFrame 的初始化] </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_09_Sample.ipynb">Day_09_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_09_Homework.ipynb">Day_09_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_08_Solution_基礎.ipynb">Day_08_Solution_基礎</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_基礎.ipynb">Day_09_Solution_基礎</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_進階.ipynb">Day_09_Solution_進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_09_Sample.ipynb"> Day_09_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_09_Homework.ipynb"> Day_09_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_08_Solution_基礎.ipynb"> Day_08_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_基礎.ipynb"> Day_09_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_進階.ipynb"> Day_09_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> Pandas 資料索引操作 <br> (資料過濾、選擇、合併) <br>
              [Pandas DataFrame 的資料選取] </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_10_Sample.ipynb">Day_10_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_10_Homework.ipynb">Day_10_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_10_Solution_基礎.ipynb">Day_10_Solution_基礎</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_10_Solution_進階.ipynb">Day_10_Solution_進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_10_Sample.ipynb"> Day_10_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_10_Homework.ipynb"> Day_10_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_10_Solution_基礎.ipynb"> Day_10_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_10_Solution_進階.ipynb"> Day_10_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> Pandas 類別資料與缺失值處理 <br>
              [Pandas 中的算術運算特性] </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_11_Sample.ipynb">Day_11_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_11_Homework.ipynb">Day_11_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11_Solution_基礎.ipynb">Day_11_Solution_基礎</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11-1_Solution_進階.ipynb">Day_11-1_Solution_進階</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11-2_Solution_進階.ipynb">Day_11-2_Solution_進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_11_Sample.ipynb"> Day_11_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_11_Homework.ipynb"> Day_11_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11_Solution_基礎.ipynb"> Day_11_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11-1_Solution_進階.ipynb"> Day_11-1_Solution_進階</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11-2_Solution_進階.ipynb"> Day_11-2_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> [Pandas 迭代與重複操作] <br>
              [Pandas DataFrame 的新增與刪除] <br>
              [Pandas 的外部資料存取] </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_12_Sample.ipynb">Day_12_Sample</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_13_Sample.ipynb">Day_13_Sample</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_14_Sample.ipynb">Day_14_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_12_Homework.ipynb">Day_12_H.W.</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_13_Homework.ipynb">Day_13_H.W.</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_14_Homework.ipynb">Day_14_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_12_Solution_基礎.ipynb">Day_12_Solution_基礎</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_13_Solution_基礎.ipynb">Day_13_Solution_基礎</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_14_Solution_基礎.ipynb">Day_14_Solution_基礎</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_12_Sample.ipynb"> Day_12_Sample</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_13_Sample.ipynb"> Day_13_Sample</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_14_Sample.ipynb"> Day_14_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_12_Homework.ipynb"> Day_12_H.W.</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_13_Homework.ipynb"> Day_13_H.W.</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_14_Homework.ipynb"> Day_14_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_12_Solution_基礎.ipynb"> Day_12_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_13_Solution_基礎.ipynb"> Day_13_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_14_Solution_基礎.ipynb"> Day_14_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> Pandas 常見圖表程式設計 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_12_Sample_進階.ipynb">Day_12_Sample_進階</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_12_Homework_進階.ipynb">Day_12_H.W._進階</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_12_Solution_進階.ipynb">Day_12_Solution_進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_12_Sample_進階.ipynb"> Day_12_Sample_進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_12_Homework_進階.ipynb"> Day_12_H.W._進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_12_Solution_進階.ipynb"> Day_12_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> Pandas 統計函式使用教學 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_13_Sample_進階.ipynb">Day_13_Sample_進階</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_13_Homework_進階.ipynb">Day_13_H.W._進階</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_13_Solution_進階.ipynb">Day_13_Solution_進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_13_Sample_進階.ipynb"> Day_13_Sample_進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_13_Homework_進階.ipynb"> Day_13_H.W._進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_13_Solution_進階.ipynb"> Day_13_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> Pandas 撰寫樞紐分析表 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_15_Sample.ipynb">Day_15_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_15_Homework.ipynb">Day_15_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_15_Solution_基礎.ipynb">Day_15_Solution_基礎</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_15_Sample.ipynb"> Day_15_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_15_Homework.ipynb"> Day_15_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_15_Solution_基礎.ipynb"> Day_15_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> Pandas 執行聚合運算 (Split-Apply-Combine Strategy) </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_16_Sample.ipynb">Day_16_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_16_Homework.ipynb">Day_16_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_16_Solution_基礎.ipynb">Day_16_Solution_基礎</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_16_Sample.ipynb"> Day_16_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_16_Homework.ipynb"> Day_16_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_16_Solution_基礎.ipynb"> Day_16_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> Pandas 時間序列 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_17_Homework.ipynb">Day_17_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_17_Solution_基礎.ipynb">Day_17_Solution_基礎</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb"> Day_17_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_17_Homework.ipynb"> Day_17_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_17_Solution_基礎.ipynb"> Day_17_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> Pandas 效能調校 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_18_Sample.ipynb">Day_18_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_18_Homework.pptx">Day_18_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_18_Solution_%E5%9F%BA%E7%A4%8E.pptx">Day_18_Solution_基礎</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_18_Sample.ipynb"> Day_18_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_18_Homework.pptx"> Day_18_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_18_Solution_%E5%9F%BA%E7%A4%8E.pptx"> Day_18_Solution_基礎</a> </td>
     </tr>    
 </table>
 Back to <a href="#學習大綱">學習大綱</a>
@@ -195,23 +195,25 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="25%">解答</a>
     </tr>
     <tr>
+        <td> Python 資料視覺化工具與常見統計圖表介紹 </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_19_Sample.ipynb"> Day_19_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_19_Homework.pptx"> Day_19_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_19_Solution_基礎.ipynb"> Day_19_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_19_Solution_進階.ipynb"> Day_19_Solution_進階</a> </td>
+    </tr>
+    <tr>
+        <td> 使用 Matplotlib 繪製各種常用圖表 </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_20_Sample.ipynb"> Day_20_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_20_Homework.pptx"> Day_20_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_20_Solution_基礎.ipynb"> Day_20_Solution_基礎</a> </td>
+    </tr>
+    <tr>
         <td> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
         <td>Day_17_H.W.</td>
         <td>Day_17_Solution</td>
     </tr>
-    <tr>
-        <td> Python 資料視覺化工具與常見統計圖表介紹 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_19_Sample.ipynb">Day_19_Sample</a> </td>
-        <td>Day_19_H.W.</td>
-        <td>Day_19_Solution</td>
-    </tr>
-    <tr>
-        <td> 使用 Matplotlib 繪製各種常用圖表 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_20_Sample.ipynb">Day_20_Sample</a> </td>
-        <td>Day_20_H.W.</td>
-        <td>Day_20_Solution</td>
-    </tr>
+
     <tr>
         <td> 使用 Seaborn 進行資料視覺化 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_21_Sample.ipynb">Day_21_Sample</a> </td>
