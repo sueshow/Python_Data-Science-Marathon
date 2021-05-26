@@ -213,7 +213,6 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td>Day_17_H.W.</td>
         <td>Day_17_Solution</td>
     </tr>
-
     <tr>
         <td> 使用 Seaborn 進行資料視覺化 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_21_Sample.ipynb">Day_21_Sample</a> </td>
