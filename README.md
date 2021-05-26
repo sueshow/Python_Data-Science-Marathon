@@ -204,7 +204,7 @@ Back to <a href="#學習大綱">學習大綱</a>
     <tr>
         <td> 使用 Matplotlib 繪製各種常用圖表 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_20_Sample.ipynb"> Day_20_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_20_Homework.pptx"> Day_20_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_20_Homework.ipynb"> Day_20_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_20_Solution_基礎.ipynb"> Day_20_Solution_基礎</a> </td>
     </tr>
     <tr>
