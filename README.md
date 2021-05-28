@@ -208,22 +208,23 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_20_Solution_基礎.ipynb"> Day_20_Solution_基礎</a> </td>
     </tr>
     <tr>
-        <td> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
-        <td>Day_17_H.W.</td>
-        <td>Day_17_Solution</td>
-    </tr>
-    <tr>
         <td> 使用 Seaborn 進行資料視覺化 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_21_Sample.ipynb">Day_21_Sample</a> </td>
-        <td>Day_21_H.W.</td>
-        <td>Day_21_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_21_Sample.ipynb" >Day_21_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_21_Homework.ipynb"> Day_21_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_21_Solution_基礎.ipynb"> Day_21_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_21_Solution_進階.ipynb"> Day_21_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> 運用實際資料集進行資料視覺化練習 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_22_Sample.ipynb">Day_22_Sample</a> </td>
-        <td>Day_22_H.W.</td>
-        <td>Day_22_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_22_Homework.ipynb"> Day_22_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_22_Solution_基礎.ipynb"> Day_22_Solution_基礎</a> </td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
+        <td>Day_17_H.W.</td>
+        <td>Day_17_Solution</td>
     </tr>
     <tr>
         <td> 結合 Pandas 與 Matploglib 進行進階資料視覺化練習 </td>
