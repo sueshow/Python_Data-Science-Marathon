@@ -209,34 +209,35 @@ Back to <a href="#學習大綱">學習大綱</a>
     </tr>
     <tr>
         <td> 使用 Seaborn 進行資料視覺化 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_21_Sample.ipynb" >Day_21_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_21_Sample.ipynb"> Day_21_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_21_Homework.ipynb"> Day_21_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_21_Solution_基礎.ipynb"> Day_21_Solution_基礎</a> <br>
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_21_Solution_進階.ipynb"> Day_21_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> 運用實際資料集進行資料視覺化練習 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_22_Sample.ipynb">Day_22_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_22_Sample.ipynb"> Day_22_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_22_Homework.ipynb"> Day_22_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_22_Solution_基礎.ipynb"> Day_22_Solution_基礎</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_22_Solution_基礎.ipynb"> Day_22_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_22_Solution_進階.ipynb"> Day_22_Solution_進階</a> </td>
+    </tr>
+    <tr>
+        <td> 結合 Pandas 與 Matploglib 進行進階資料視覺化練習 </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_23_Sample.ipynb"> Day_23_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_23_Homework.ipynb"> Day_23_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_23_Solution_基礎.ipynb"> Day_23_Solution_基礎</a> </td>
+    </tr>
+    <tr>
+        <td> Bokeh 輕鬆以網頁呈現視覺化圖表 </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_24_Sample.ipynb"> Day_24_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_24_Homework.ipynb"> Day_24_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_24_Solution_基礎.ipynb"> Day_24_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
         <td>Day_17_H.W.</td>
         <td>Day_17_Solution</td>
-    </tr>
-    <tr>
-        <td> 結合 Pandas 與 Matploglib 進行進階資料視覺化練習 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_23_Sample.ipynb">Day_23_Sample</a> </td>
-        <td>Day_23_H.W.</td>
-        <td>Day_23_Solution</td>
-    </tr>
-    <tr>
-        <td> Bokeh 輕鬆以網頁呈現視覺化圖表 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_24_Sample.ipynb">Day_24_Sample</a> </td>
-        <td>Day_24_H.W.</td>
-        <td>Day_24_Solution</td>
     </tr>
     <tr>
         <td> Basemap 進行地理資訊繪圖 </td>
