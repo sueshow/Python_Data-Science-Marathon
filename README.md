@@ -234,22 +234,16 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_24_Solution_基礎.ipynb"> Day_24_Solution_基礎</a> </td>
     </tr>
     <tr>
-        <td> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
-        <td>Day_17_H.W.</td>
-        <td>Day_17_Solution</td>
-    </tr>
-    <tr>
         <td> Basemap 進行地理資訊繪圖 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_25_Sample.ipynb">Day_25_Sample</a> </td>
-        <td>Day_25_H.W.</td>
-        <td>Day_25_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_25_Sample.ipynb"> Day_25_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_25_Homework.ipynb"> Day_25_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_25_Solution_基礎.ipynb"> Day_25_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> 使用 Pandas 與 Basemap 將數據整合於地理資訊圖表 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_26_Sample.ipynb">Day_26_Sample</a> </td>
-        <td>Day_26_H.W.</td>
-        <td>Day_26_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_26_Sample.ipynb"> Day_26_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_26_Homework.ipynb"> Day_26_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_26_Solution_基礎.ipynb"> Day_26_Solution_基礎</a> </td>
     </tr>
 </table>
 Back to <a href="#學習大綱">學習大綱</a>
@@ -263,6 +257,12 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="10%">範例</a>
         <th width="10%">作業</a>
         <th width="25%">解答</a>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
+        <td>Day_17_H.W.</td>
+        <td>Day_17_Solution</td>
     </tr>
     <tr>
         <td> 用統計描述資料的樣態 </td>
