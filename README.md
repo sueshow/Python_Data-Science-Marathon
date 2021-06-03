@@ -259,28 +259,28 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="25%">解答</a>
     </tr>
     <tr>
+        <td> 用統計描述資料的樣態 </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_27_Sample.ipynb"> Day_27_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_27_Homework.ipynb"> Day_27_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_27_Solution_基礎.ipynb"> Day_27_Solution_基礎</a> </td>
+    </tr>
+    <tr>
+        <td> 用機率分布描述亂中有序的世界 - 離散型分配(1) </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_28_Sample.ipynb"> Day_28_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_28_Homework.ipynb"> Day_28_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_28_Solution_基礎.ipynb"> Day_28_Solution_基礎</a> </td>
+    </tr>
+    <tr>
+        <td> 用機率分布描述亂中有序的世界 - 離散型分配(2) </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_29_Sample.ipynb"> Day_29_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_29_Homework.ipynb"> Day_29_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_29_Solution_基礎.ipynb"> Day_29_Solution_基礎</a> </td>
+    </tr>
+    <tr>
         <td> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
         <td>Day_17_H.W.</td>
         <td>Day_17_Solution</td>
-    </tr>
-    <tr>
-        <td> 用統計描述資料的樣態 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_27_Sample.ipynb">Day_27_Sample</a> </td>
-        <td>Day_27_H.W.</td>
-        <td>Day_27_Solution</td>
-    </tr>
-    <tr>
-        <td> 用機率分布描述亂中有序的世界 - 離散型分配(1) </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_28_Sample.ipynb">Day_28_Sample</a> </td>
-        <td>Day_28_H.W.</td>
-        <td>Day_28_Solution</td>
-    </tr>
-    <tr>
-        <td> 用機率分布描述亂中有序的世界 - 離散型分配(2) </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_29_Sample.ipynb">Day_29_Sample</a> </td>
-        <td>Day_29_H.W.</td>
-        <td>Day_29_Solution</td>
     </tr>
     <tr>
         <td> 用機率分布描述亂中有序的世界 - 連續型分配 </td>
