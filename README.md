@@ -277,40 +277,34 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_29_Solution_基礎.ipynb"> Day_29_Solution_基礎</a> </td>
     </tr>
     <tr>
-        <td> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
-        <td>Day_17_H.W.</td>
-        <td>Day_17_Solution</td>
-    </tr>
-    <tr>
         <td> 用機率分布描述亂中有序的世界 - 連續型分配 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_30_Sample.ipynb">Day_30_Sample</a> </td>
-        <td>Day_30_H.W.</td>
-        <td>Day_30_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_30_Sample.ipynb"> Day_30_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_30_Homework.ipynb"> Day_30_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_30_Solution_基礎.ipynb"> Day_30_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> 用貝氏定理讓你決策更精準 </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_31_Sample.ipynb">Day_31_Sample</a> </td>
-        <td>Day_31_H.W.</td>
-        <td>Day_31_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_31_Sample.ipynb"> Day_31_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_31_Homework.ipynb"> Day_31_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_31_Solution_基礎.ipynb"> Day_31_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> 掌握 A/B Test 的精隨 - 假設檢定的概念 </td>
-        <td>  </td>
-        <td>Day_32_H.W.</td>
-        <td>Day_32_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_32_Sample.ipynb"> Day_32_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_32_Homework.ipynb"> Day_32_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_32_Solution_基礎.ipynb"> Day_32_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> 掌握 A/B Test 的精隨 - 假設檢定的進階概念與種類 </td>
-        <td>  </td>
-        <td>Day_33_H.W.</td>
-        <td>Day_33_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_33_Sample.ipynb"> Day_33_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_33_Homework.ipynb"> Day_33_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_33_Solution_基礎.ipynb"> Day_33_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> A/B Test 的執行流程與計算 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_34_Sample.ipynb">Day_34_Sample</a> </td>
-        <td>Day_34_H.W.</td>
-        <td>Day_34_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_34_Homework.ipynb"> Day_34_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_34_Solution_基礎.ipynb"> Day_34_Solution_基礎</a> </td>
     </tr>
 </table>
 Back to <a href="#學習大綱">學習大綱</a>
@@ -324,6 +318,12 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="10%">範例</a>
         <th width="10%">作業</a>
         <th width="25%">解答</a>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
+        <td>Day_17_H.W.</td>
+        <td>Day_17_Solution</td>
     </tr>
     <tr>
         <td> 淺談資料科學與 EDA 所扮演的角色與重要性 </td>
