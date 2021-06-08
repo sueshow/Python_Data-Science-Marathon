@@ -416,6 +416,5 @@ Back to <a href="#學習大綱">學習大綱</a>
 * [HTML 語法](http://web.thu.edu.tw/hzed/www/tag.htm)
 * [Table](https://www.tutorialspoint.com/How-to-center-align-text-in-table-cells-in-HTML)
 * [Latex](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
-
 <br>
 Back to <a href="#學習大綱">學習大綱</a>
