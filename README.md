@@ -320,12 +320,6 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="25%">解答</a>
     </tr>
     <tr>
-        <td> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
-        <td>Day_17_H.W.</td>
-        <td>Day_17_Solution</td>
-    </tr>
-    <tr>
         <td> 淺談資料科學與 EDA 所扮演的角色與重要性 </td>
         <td>  </td>
         <td>Day_35_H.W.</td>
