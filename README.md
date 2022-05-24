@@ -321,7 +321,7 @@ Back to <a href="#學習大綱">學習大綱</a>
     </tr>
     <tr>
         <td> 淺談資料科學與 EDA 所扮演的角色與重要性 </td>
-        <td>  </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_35_Sample.ipynb">Day_35_Sample</a> </td>
         <td>Day_35_H.W.</td>
         <td>Day_35_Solution</td>
     </tr>
