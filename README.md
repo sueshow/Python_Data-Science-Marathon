@@ -320,52 +320,46 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="25%">解答</a>
     </tr>
     <tr>
-        <td> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb">Day_17_Sample</a> </td>
-        <td>Day_17_H.W.</td>
-        <td>Day_17_Solution</td>
-    </tr>
-    <tr>
         <td> 淺談資料科學與 EDA 所扮演的角色與重要性 </td>
-        <td>  </td>
-        <td>Day_35_H.W.</td>
-        <td>Day_35_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_35_Sample.ipynb">Day_35_Sample</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_35_Homework.ipynb"> Day_35_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_35_Solution_基礎.ipynb"> Day_35_Solution</a> </td>
     </tr>
     <tr>
         <td> 探索性資料分析(EDA)_數據理解與重覆和遺失值處理 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_36_Sample.ipynb">Day_36_Sample</a> </td>
-        <td>Day_36_H.W.</td>
-        <td>Day_36_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_36_Homework.ipynb"> Day_36_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_36_Solution_基礎.ipynb"> Day_36_Solution</a> </td>
     </tr>
     <tr>
         <td> 探索性資料分析(EDA)_異常值偵測 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_37_Sample.ipynb">Day_37_Sample</a> </td>
-        <td>Day_37_H.W.</td>
-        <td>Day_37_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_37_Homework.ipynb"> Day_37_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_37_Solution_基礎.ipynb"> Day_37_Solution</a> </td>
     </tr>
     <tr>
         <td> 探索性資料分析(EDA)_遺失值與異常值的進階補值策略 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_38_Sample.ipynb">Day_38_Sample</a> </td>
-        <td>Day_38_H.W.</td>
-        <td>Day_38_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_38_Homework.ipynb"> Day_38_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_38_Solution_基礎.ipynb"> Day_38_Solution</a> </td>
     </tr>
     <tr>
         <td> 探索性資料分析(EDA)_探討變數之間的關係 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_39_Sample.ipynb">Day_39_Sample</a> </td>
-        <td>Day_39_H.W.</td>
-        <td>Day_39_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_39_Homework.ipynb"> Day_39_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_39_Solution_基礎.ipynb"> Day_39_Solution</a> </td>
     </tr>
     <tr>
         <td> 探索性資料分析(EDA)_從資料中生成特徵 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_40_Sample.ipynb">Day_40_Sample</a> </td>
-        <td>Day_40_H.W.</td>
-        <td>Day_40_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_40_Homework.ipynb"> Day_40_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_40_Solution_基礎.ipynb"> Day_40_Solution</a> </td>
     </tr>
     <tr>
         <td> 探索性資料分析(EDA)_從資料中選取好的特徵 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_41_Sample.ipynb">Day_41_Sample</a> </td>
-        <td>Day_41_H.W.</td>
-        <td>Day_41_Solution</td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_41_Homework.ipynb"> Day_41_H.W.</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_41_Solution_基礎.ipynb"> Day_41_Solution</a> </td>
     </tr>
 </table>
 Back to <a href="#學習大綱">學習大綱</a>
