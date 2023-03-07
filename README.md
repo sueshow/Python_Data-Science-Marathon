@@ -31,11 +31,11 @@
         </td>
     </tr>
     <tr>
-        <td> NumPy 陣列進階操作 <br> 
-             [陣列中不同的資料型態] <br> 
+        <td> NumPy 陣列中不同的資料型態 <br> 
              [陣列的方法與函式[進階]]
         </td>
-        <td></td>
+        <td> ● 認識 NumPy 中提供的資料型態 <br>
+             ● 了解各種型態的差異與定義 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_02_Sample.ipynb"> Day_02_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_02_Homework.ipynb"> Day_02_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_02_Solution_基本.ipynb"> Day_02_Solution_基本</a> <br>
