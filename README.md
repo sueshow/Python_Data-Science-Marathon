@@ -20,8 +20,7 @@
         <th width="25%">解答</a>
     </tr>
     <tr>
-        <td> NumPy 基本操作 <br> 
-             [陣列的定義與屬性] </td>
+        <td> NumPy 陣列的定義與屬性 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_01_Sample.ipynb"> Day_01_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework.ipynb"> Day_01_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution_基本.ipynb"> Day_01_Solution_基本</a> <br>
