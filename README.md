@@ -12,10 +12,10 @@
 
 
 ## NumPy_程式開發實作
-<table border="1" width="70%">
+<table border="1" width="80%">
     <tr>
         <th width="20%">主題</a>
-        <th width="20%">重點</a>
+        <th width="30%">重點</a>
         <th width="10%">範例(含筆記)</a>
         <th width="10%">作業</a>
         <th width="10%">解答</a>
@@ -106,10 +106,10 @@ Back to <a href="#學習大綱">學習大綱</a>
  
  
 ## Pandas_程式開發實作
-<table border="1" width="70%">
+<table border="1" width="80%">
     <tr>
         <th width="20%">主題</a>
-        <th width="20%">摘要</a>
+        <th width="30%">摘要</a>
         <th width="10%">範例</a>
         <th width="10%">作業</a>
         <th width="10%">解答</a>
@@ -207,10 +207,10 @@ Back to <a href="#學習大綱">學習大綱</a>
 
 
 ## Data-Visualization_資料視覺化
-<table border="1" width="70%">
+<table border="1" width="80%">
     <tr>
         <th width="20%">主題</a>
-        <th width="20%">摘要</a>
+        <th width="30%">摘要</a>
         <th width="10%">範例</a>
         <th width="10%">作業</a>
         <th width="10%">解答</a>
@@ -280,10 +280,10 @@ Back to <a href="#學習大綱">學習大綱</a>
 
 
 ## 統計的基礎知識
-<table border="1" width="70%">
+<table border="1" width="80%">
     <tr>
         <th width="20%">主題</a>
-        <th width="20%">摘要</a>
+        <th width="30%">摘要</a>
         <th width="10%">範例</a>
         <th width="10%">作業</a>
         <th width="10%">解答</a>
@@ -350,10 +350,10 @@ Back to <a href="#學習大綱">學習大綱</a>
 
 
 ## 手把手來場資料科學專案
-<table border="1" width="70%">
+<table border="1" width="80%">
     <tr>
         <th width="20%">主題</a>
-        <th width="20%">摘要</a>
+        <th width="30%">摘要</a>
         <th width="10%">範例</a>
         <th width="10%">作業</a>
         <th width="10%">解答</a>
