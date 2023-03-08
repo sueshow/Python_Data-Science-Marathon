@@ -64,7 +64,7 @@
         </td>
     </tr>
     <tr>
-        <td> NumPy 陣列邏輯運算 </td>
+        <td> NumPy 陣列的邏輯運算 </td>
         <td> ● 正確的使用 NumPy 中的比較與邏輯運算 <br>
              ● 掌握 NumPy 陣列的遮罩特性與使用 <br>
              ● 知道 NumPy 陣列與 Python 列表的用法差異 </td>
