@@ -53,9 +53,10 @@
         </td>
     </tr>
     <tr>
-        <td> NumPy 陣列運算及數學函式 <br> 
-             [算術運算]</td>
-        <td></td>
+        <td> NumPy 陣列的算術運算</td>
+        <td> ● 正確的使用 NumPy 中的算術運算及相關函式操作 <br>
+             ● 了解 NumPy 陣列與數學矩陣的關係 <br>
+             ● 知道 NumPy 與 SciPy 差異為何 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_04_Sample.ipynb"> Day_04_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_04_Homework.ipynb"> Day_04_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_04_Solution_基本.ipynb"> Day_04_Solution_基本</a> <br> 
