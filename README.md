@@ -64,11 +64,10 @@
         </td>
     </tr>
     <tr>
-        <td> NumPy 陣列邏輯函式 <br>
-             NumPy 統計函式 <br>
-             [陣列的方法與函式[基礎]]
-        </td>
-        <td></td>
+        <td> NumPy 陣列邏輯運算 </td>
+        <td> ● 正確的使用 NumPy 中的比較與邏輯運算 <br>
+             ● 掌握 NumPy 陣列的遮罩特性與使用 <br>
+             ● 知道 NumPy 陣列與 Python 列表的用法差異 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_基礎+進階_v1.ipynb"> Day_05_Sample_基礎+進階_v1</a> <br> 
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_06基礎+進階_v2.ipynb"> Day_05_Sample_06基礎+進階_v2</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_05_Homework.ipynb"> Day_05_H.W.</a> </td>
