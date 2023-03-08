@@ -25,7 +25,7 @@
         <td> ● NumPy介紹與安裝 <br>
              ● 認識 Numpy 套件與 Array 陣列定義 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_01_Sample.ipynb"> Day_01_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework_進階.ipynb"> Day_01_H.W._進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework.ipynb"> Day_01_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution_基本.ipynb"> Day_01_Solution_基本</a> <br>
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution_進階.ipynb"> Day_01_Solution_進階</a> <br>
         </td>
