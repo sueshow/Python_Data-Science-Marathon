@@ -25,7 +25,7 @@
         <td> ● NumPy介紹與安裝 <br>
              ● 認識 Numpy 套件與 Array 陣列定義 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_01_Sample.ipynb"> Day_01_Sample</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework_進階.ipynb"> Day_01_H.W._進階</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_01_Homework.ipynb"> Day_01_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution_基本.ipynb"> Day_01_Solution_基本</a> <br>
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_01_Solution_進階.ipynb"> Day_01_Solution_進階</a> <br>
         </td>
@@ -42,9 +42,10 @@
         </td>
     </tr>
     <tr>
-        <td> NumPy 結構化陣列 <br> 
-             [陣列的初始化]</td>
-        <td></td>
+        <td> NumPy 陣列的初始化</td>
+        <td> ● 使用不同的方法初始化一個陣列 <br>
+             ● 了解不同的亂數陣列有什麼差異 <br>
+             ● 如何操作結構化陣列 (Structured Arrays) </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_03_Sample.ipynb"> Day_03_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_03_Homework.ipynb"> Day_03_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_03_Solution_基本.ipynb"> Day_03_Solution_基本</a> <br> 
