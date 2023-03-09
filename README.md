@@ -75,8 +75,10 @@
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v1.ipynb"> Day_05_Solution_進階_v1</a> </td>
     </tr>
     <tr>
-        <td> NumPy 陣列的統計運算 </td>
-        <td>  </td>
+        <td> 常見的陣列方法與函式 </td>
+        <td> ● 學會使用陣列中的統計方法及函式操作 <br>
+             ● 學會使用陣列中的搜尋與排序方法 <br>
+             ● 學會使用陣列中的形狀方法 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_基礎+進階_v2.ipynb"> Day_05_Sample_基礎+進階_v2</a> </td>
         <td>  </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v2.ipynb"> Day_05_Solution_進階_v2</a> </td>
