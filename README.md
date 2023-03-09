@@ -72,14 +72,13 @@
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_05_Homework.ipynb"> Day_05_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_基本.ipynb"> Day_05_Solution_基本</a> <br> 
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_06_Solution_基本.ipynb"> Day_06_Solution_基本</a> <br> 
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v1.ipynb"> Day_05_Solution_進階_v1</a> <br> 
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v2.ipynb"> Day_05_Solution_進階_v2</a> </td>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v1.ipynb"> Day_05_Solution_進階_v1</a> </td>
     </tr>
     <tr>
         <td> NumPy 陣列的統計運算 </td>
         <td>  </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_06基礎+進階_v2.ipynb"> Day_05_Sample_基礎+進階_v2</a> </td>
-        <td>  </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_基礎+進階_v2.ipynb"> Day_05_Sample_基礎+進階_v2</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v2.ipynb"> Day_05_Solution_進階_v2</a> </td>
     </tr>
     <tr>
         <td> 使用 NumPy 存取各種檔案內容 </td>
