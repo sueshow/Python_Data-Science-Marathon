@@ -69,8 +69,8 @@
              ● 掌握 NumPy 陣列的遮罩特性與使用 <br>
              ● 知道 NumPy 陣列與 Python 列表的用法差異 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_基礎+進階_v1.ipynb"> Day_05_Sample_基礎+進階_v1</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_05_Homework.ipynb"> Day_05_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_基本.ipynb"> Day_05_Solution_基本</a> <br> 
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_05_Homework_v1.ipynb"> Day_05_H.W._v1</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_基本_v1.ipynb"> Day_05_Solution_基本_v1</a> <br> 
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_06_Solution_基本.ipynb"> Day_06_Solution_基本</a> <br> 
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v1.ipynb"> Day_05_Solution_進階_v1</a> </td>
     </tr>
@@ -80,8 +80,9 @@
              ● 學會使用陣列中的搜尋與排序方法 <br>
              ● 學會使用陣列中的形狀方法 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_05_Sample_基礎+進階_v2.ipynb"> Day_05_Sample_基礎+進階_v2</a> </td>
-        <td>  </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v2.ipynb"> Day_05_Solution_進階_v2</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_05_Homework_v2.ipynb"> Day_05_H.W._v2</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_基本_v2.ipynb"> Day_05_Solution_基本_v2</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_05_Solution_進階_v2.ipynb"> Day_05_Solution_進階_v2</a> </td>
     </tr>
     <tr>
         <td> 使用 NumPy 存取各種檔案內容 </td>
