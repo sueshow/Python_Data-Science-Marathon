@@ -92,7 +92,7 @@
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_06_Solution_進階.ipynb"> Day_06_Solution_進階</a> </td>
     </tr>
     <tr>
-        <td> NumPy 的矩陣函式與線性代數應用 <>
+        <td> NumPy 的矩陣函式與線性代數應用 <br>
              + 陣列的索引、切片和迭代 </td>
         <td> ● 如何從 NumPy 陣列存取元素 <br>
              ● 了解一維與多維陣列的迴圈用法 <br>
