@@ -137,9 +137,11 @@ Back to <a href="#學習大綱">學習大綱</a>
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_進階.ipynb"> Day_09_Solution_進階</a> </td>
     </tr>
     <tr>
-        <td> Pandas 資料索引操作 <br> (資料過濾、選擇、合併) <br>
-             [Pandas DataFrame 的資料選取] </td>
-        <td></td>
+        <td> Pandas DataFrame 的資料選取 </td>
+        <td> ● 使用欄位名稱與索引選取資料 <br>
+             ● 使用 location 座標選資料 <br>
+             ● 使用遮罩操作選取資料 <br>
+             ● 使用過濾與合併資料 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_10_Sample.ipynb"> Day_10_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_10_Homework.ipynb"> Day_10_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_10_Solution_基礎.ipynb"> Day_10_Solution_基礎</a> <br>
