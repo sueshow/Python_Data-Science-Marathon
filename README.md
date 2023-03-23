@@ -125,9 +125,7 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="20%">解答</a>
     </tr>
     <tr>
-        <td> 使用 Pandas 讀寫各種常用的檔案格式 <br>
-             [Pandas 物件的定義與屬性] <br>
-             [使用 Pandas DataFrame 的初始化] </td>
+        <td> Pandas 物件的定義與屬性 </td>
         <td></td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_09_Sample.ipynb"> Day_09_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_09_Homework.ipynb"> Day_09_H.W.</a> </td>
