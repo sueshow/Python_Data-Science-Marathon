@@ -125,9 +125,11 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="20%">解答</a>
     </tr>
     <tr>
-        <td> Pandas 物件的定義與屬性 </td>
-        <td> ● 使用 DataFrame 與 Series 當中的屬性 <br>
-             ● 理解 Seies、DataFrame 與 NdArray 的比較 </td>
+        <td> Pandas 物件的定義與屬性 <br>
+             + DataFrame 的初始化</td>
+        <td> ● 使用 DataFrame 與 Series 的屬性與方法 <br>
+             ● 理解 Seies、DataFrame 與 NdArray 的比較 <br>
+             ● 了解 DataFrame 中的 index 與 column</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_09_Sample.ipynb"> Day_09_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_09_Homework.ipynb"> Day_09_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_08_Solution_基礎.ipynb"> Day_08_Solution_基礎</a> <br>
