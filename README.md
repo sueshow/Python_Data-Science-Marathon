@@ -105,7 +105,7 @@
     </tr>
     <tr>
         <td> NumPy 結構化陣列 (Structured Arrays) </td>
-        <td></td>
+        <td> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_08_Sample.ipynb"> Day_08_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_08_Homework.ipynb"> Day_08_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_08_Solution_進階.ipynb"> Day_08_Solution_進階</a> </td>
@@ -126,7 +126,8 @@ Back to <a href="#學習大綱">學習大綱</a>
     </tr>
     <tr>
         <td> Pandas 物件的定義與屬性 </td>
-        <td></td>
+        <td> ● 使用 DataFrame 與 Series 當中的屬性 <br>
+             ● 理解 Seies、DataFrame 與 NdArray 的比較 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_09_Sample.ipynb"> Day_09_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_09_Homework.ipynb"> Day_09_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_08_Solution_基礎.ipynb"> Day_08_Solution_基礎</a> <br>
