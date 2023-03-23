@@ -93,8 +93,10 @@
     </tr>
     <tr>
         <td> NumPy 的矩陣函式與線性代數應用 <br>
-             [NumPy 陣列的索引、切片和迭代] </td>
-        <td></td>
+             + 陣列的索引、切片和迭代 </td>
+        <td> ● 如何從 NumPy 陣列存取元素 <br>
+             ● 了解一維與多維陣列的迴圈用法 <br>
+             ● 初步理解陣列與其迭代物件 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_07_Sample.ipynb"> Day_07_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_07_Homework.ipynb"> Day_07_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_07_Solution_基礎.ipynb"> Day_07_Solution_基礎</a> <br>
@@ -103,7 +105,7 @@
     </tr>
     <tr>
         <td> NumPy 結構化陣列 (Structured Arrays) </td>
-        <td></td>
+        <td> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_08_Sample.ipynb"> Day_08_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_08_Homework.ipynb"> Day_08_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_08_Solution_進階.ipynb"> Day_08_Solution_進階</a> </td>
@@ -123,10 +125,11 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="20%">解答</a>
     </tr>
     <tr>
-        <td> 使用 Pandas 讀寫各種常用的檔案格式 <br>
-             [Pandas 物件的定義與屬性] <br>
-             [使用 Pandas DataFrame 的初始化] </td>
-        <td></td>
+        <td> Pandas 物件的定義與屬性 <br>
+             + DataFrame 的初始化</td>
+        <td> ● 使用 DataFrame 與 Series 的屬性與方法 <br>
+             ● 理解 Seies、DataFrame 與 NdArray 的比較 <br>
+             ● 了解 DataFrame 中的 index 與 column</td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_09_Sample.ipynb"> Day_09_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_09_Homework.ipynb"> Day_09_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_08_Solution_基礎.ipynb"> Day_08_Solution_基礎</a> <br>
@@ -134,9 +137,11 @@ Back to <a href="#學習大綱">學習大綱</a>
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_進階.ipynb"> Day_09_Solution_進階</a> </td>
     </tr>
     <tr>
-        <td> Pandas 資料索引操作 <br> (資料過濾、選擇、合併) <br>
-             [Pandas DataFrame 的資料選取] </td>
-        <td></td>
+        <td> Pandas DataFrame 的資料選取 </td>
+        <td> ● 使用欄位名稱與索引選取資料 <br>
+             ● 使用 location 座標選資料 <br>
+             ● 使用遮罩操作選取資料 <br>
+             ● 使用過濾與合併資料 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_10_Sample.ipynb"> Day_10_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_10_Homework.ipynb"> Day_10_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_10_Solution_基礎.ipynb"> Day_10_Solution_基礎</a> <br>
