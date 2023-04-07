@@ -196,13 +196,6 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_12_Solution_進階.ipynb"> Day_12_Solution_進階</a> </td>
     </tr>
     <tr>
-        <td> Pandas 統計函式使用教學 </td>
-        <td></td>
-        <td>  </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_13_Homework_進階.ipynb"> Day_13_H.W._進階</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_13_Solution_進階.ipynb"> Day_13_Solution_進階</a> </td>
-    </tr>
-    <tr>
         <td> Pandas 撰寫樞紐分析表 </td>
         <td></td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_15_Sample.ipynb"> Day_15_Sample</a> </td>
