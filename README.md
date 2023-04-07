@@ -132,8 +132,7 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_09_Sample.ipynb"> Day_09_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_09_Homework.ipynb"> Day_09_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_08_Solution_基礎.ipynb"> Day_08_Solution_基礎</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_基礎.ipynb"> Day_09_Solution_基礎</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_進階.ipynb"> Day_09_Solution_進階</a> </td>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_基礎.ipynb"> Day_09_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> Pandas DataFrame 的資料選取 </td>
@@ -185,7 +184,8 @@ Back to <a href="#學習大綱">學習大綱</a>
              ● 類別資料的缺失值處理方法與應用函示 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_14_Sample.ipynb"> Day_14_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_14_Homework.ipynb"> Day_14_H.W.</a> </td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_14_Solution_基礎.ipynb"> Day_14_Solution_基礎</a> </td>
+        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_14_Solution_基礎.ipynb"> Day_14_Solution_基礎</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_進階.ipynb"> Day_09_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> Pandas 常見圖表程式設計 </td>
