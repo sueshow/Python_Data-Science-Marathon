@@ -146,8 +146,7 @@ Back to <a href="#學習大綱">學習大綱</a>
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_10_Solution_進階.ipynb"> Day_10_Solution_進階</a> </td>
     </tr>
     <tr>
-        <td> Pandas 中的算術運算特性 <br>
-             + Pandas 類別資料與缺失值處理 </td>
+        <td> Pandas 中的算術運算特性 </td>
         <td> ● 知道如何使用 DataFrame 中的運算 <br>
              ● 了解 DataFrame 運算的特性 <br>
              ● 知道 DataFrame 中統計與字串的操作 <br>
@@ -155,8 +154,7 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_11_Sample.ipynb"> Day_11_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_11_Homework.ipynb"> Day_11_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11_Solution_基礎.ipynb"> Day_11_Solution_基礎</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11-1_Solution_進階.ipynb"> Day_11-1_Solution_進階</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11-2_Solution_進階.ipynb"> Day_11-2_Solution_進階</a> </td>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11-1_Solution_進階.ipynb"> Day_11-1_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> Pandas 迭代與重複操作 </td>
@@ -177,7 +175,8 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_13_Solution_基礎.ipynb"> Day_13_Solution_基礎</a> </td>
     </tr>
     <tr>
-        <td> Pandas 的外部資料存取 </td>
+        <td> Pandas 的外部資料存取 <br>
+             + Pandas 類別資料與缺失值處理 </td>
         <td> ● 使用 read_csv 與 to_csv 方法存取資料 <br>
              ● 了解空值代表的含義與常見的解決策略 <br>
              ● 知道 Pandas 支援外部資料的格式有哪些 <br>
@@ -185,7 +184,8 @@ Back to <a href="#學習大綱">學習大綱</a>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_14_Sample.ipynb"> Day_14_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_14_Homework.ipynb"> Day_14_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_14_Solution_基礎.ipynb"> Day_14_Solution_基礎</a> <br>
-             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_進階.ipynb"> Day_09_Solution_進階</a> </td>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_09_Solution_進階.ipynb"> Day_09_Solution_進階</a> <br>
+             <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_11-2_Solution_進階.ipynb"> Day_11-2_Solution_進階</a> </td>
     </tr>
     <tr>
         <td> Pandas 常見圖表程式設計 </td>
