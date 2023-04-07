@@ -146,7 +146,8 @@ Back to <a href="#學習大綱">學習大綱</a>
              <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_10_Solution_進階.ipynb"> Day_10_Solution_進階</a> </td>
     </tr>
     <tr>
-        <td> Pandas 中的算術運算特性 </td>
+        <td> Pandas 中的算術運算特性 <br>
+             + Pandas 統計函式使用教學 </td>
         <td> ● 知道如何使用 DataFrame 中的運算 <br>
              ● 了解 DataFrame 運算的特性 <br>
              ● 知道 DataFrame 中統計與字串的操作 <br>
@@ -197,7 +198,7 @@ Back to <a href="#學習大綱">學習大綱</a>
     <tr>
         <td> Pandas 統計函式使用教學 </td>
         <td></td>
-        <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_13_Sample_進階.ipynb"> Day_13_Sample_進階</a> </td>
+        <td>  </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_13_Homework_進階.ipynb"> Day_13_H.W._進階</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_13_Solution_進階.ipynb"> Day_13_Solution_進階</a> </td>
     </tr>
