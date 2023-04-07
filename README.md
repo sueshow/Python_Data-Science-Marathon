@@ -125,8 +125,7 @@ Back to <a href="#學習大綱">學習大綱</a>
         <th width="20%">解答</a>
     </tr>
     <tr>
-        <td> Pandas 物件的定義與屬性 <br>
-             + DataFrame 的初始化</td>
+        <td> Pandas 物件的定義與屬性 </td>
         <td> ● 使用 DataFrame 與 Series 的屬性與方法 <br>
              ● 理解 Seies、DataFrame 與 NdArray 的比較 <br>
              ● 了解 DataFrame 中的 index 與 column</td>
@@ -171,14 +170,19 @@ Back to <a href="#學習大綱">學習大綱</a>
     </tr>
     <tr>
         <td> Pandas DataFrame 的新增與刪除 </td>
-        <td></td>
+        <td> ● 正確的從 DataFrame 中插入或刪除資料 <br>
+             ● 正確的對 DataFrame 進行合併與重組 <br>
+             ● 了解 DataFrame 中合併的方法差異 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_13_Sample.ipynb"> Day_13_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_13_Homework.ipynb"> Day_13_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_13_Solution_基礎.ipynb"> Day_13_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> Pandas 的外部資料存取 </td>
-        <td></td>
+        <td> ● 使用 read_csv 與 to_csv 方法存取資料 <br>
+             ● 了解空值代表的含義與常見的解決策略 <br>
+             ● 知道 Pandas 支援外部資料的格式有哪些 <br>
+             ● 類別資料的缺失值處理方法與應用函示 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_14_Sample.ipynb"> Day_14_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_14_Homework.ipynb"> Day_14_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_14_Solution_基礎.ipynb"> Day_14_Solution_基礎</a> </td>
