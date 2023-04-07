@@ -197,7 +197,9 @@ Back to <a href="#學習大綱">學習大綱</a>
     </tr>
     <tr>
         <td> Pandas 撰寫樞紐分析表 </td>
-        <td></td>
+        <td> ● 在資料中的索引轉欄位、欄位轉索引 <br>
+             ● 欄位名稱轉為欄位值 <br>
+             ● 重新組織資料 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_15_Sample.ipynb"> Day_15_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_15_Homework.ipynb"> Day_15_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_15_Solution_基礎.ipynb"> Day_15_Solution_基礎</a> </td>
