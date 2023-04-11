@@ -206,7 +206,7 @@ Back to <a href="#學習大綱">學習大綱</a>
     </tr>
     <tr>
         <td> Pandas 執行聚合運算 (Split-Apply-Combine Strategy) </td>
-        <td></td>
+        <td> ● 實做 groupby 函式實現資料科學的 Split-Apply-Combine 策略 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_16_Sample.ipynb"> Day_16_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_16_Homework.ipynb"> Day_16_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_16_Solution_基礎.ipynb"> Day_16_Solution_基礎</a> </td>
