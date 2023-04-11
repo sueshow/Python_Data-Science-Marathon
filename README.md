@@ -213,14 +213,15 @@ Back to <a href="#學習大綱">學習大綱</a>
     </tr>
     <tr>
         <td> Pandas 時間序列 </td>
-        <td></td>
+        <td> ● 時間序列資料處理 <br>
+             ● 日期時間處理 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_17_Sample.ipynb"> Day_17_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_17_Homework.ipynb"> Day_17_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_17_Solution_基礎.ipynb"> Day_17_Solution_基礎</a> </td>
     </tr>
     <tr>
         <td> Pandas 效能調校 </td>
-        <td></td>
+        <td> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_18_Sample.ipynb"> Day_18_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_18_Homework.pptx"> Day_18_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_18_Solution_%E5%9F%BA%E7%A4%8E.pptx"> Day_18_Solution_基礎</a> </td>
