@@ -243,7 +243,9 @@ Back to <a href="#學習大綱">學習大綱</a>
     </tr>
     <tr>
         <td> Python 資料視覺化工具與常見統計圖表介紹 </td>
-        <td></td>
+        <td> ● 了解資料視覺化應用 <br>
+             ● 常見的統計圖形之使用情境與時機 <br>
+             ● Python 資料視覺化主要套件適用場景 </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Sample/Day_19_Sample.ipynb"> Day_19_Sample</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Homework/Day_19_Homework.ipynb"> Day_19_H.W.</a> </td>
         <td> <a href="https://github.com/sueshow/Data_Science_Marathon/blob/main/Solution/Day_19_Solution_基礎.ipynb"> Day_19_Solution_基礎</a> <br>
